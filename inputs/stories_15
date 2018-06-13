@@ -1,0 +1,1000 @@
+*one* missile launcher may be fired at that target with a to hit modifier 
+of -1 since the TAG laser has a more definate lock on the target and feeds 
+its information to the selected missile launcher.  Multiple TAG lasers are 
+needed for multiple launcher assists and can only assist in missile shots 
+at the TAGed target. TAG can be combined with any missile launcher or 
+targeting enhancement.  TAG is useless with Thunder and Swarm munitions.  
+There is no additional cost to launchers or munitions to use TAG.  The C^3 
+system's capability to emulate TAG does not get the -1 to hit missile 
+bonus.
+	16)  NARC Pods.  The NARC as presented in the rules is, well, to 
+put it bluntly, pretty wimpy.  Here are the modifications suggested:
+		A)  Any missile equipped attack against a NARCed target 
+	has a -1 to hit and a +2 on the missile chart instead of just the 
+	+2 to missile hit chart modifier as presented in the rules 
+	originally.
+		B)  Record the hit location of where the NARC beacon will 
+	hit.  Once that location has been destroyed (Mech arm destroyed or 
+	blown off) then the NARC beacon is lost also.
+		C)  NARC and Artemis are still incompatible.
+		D)  The idea of special NARC missiles has been discarded.  
+	All normal missiles and those not specifically mentioned are "NARC 
+	compatible."
+	17) Artemis.  The only change to the Artemis is that Artemis 
+assisted BRM attacks get an additional D6 (D6-1, D3) to determine the 
+number of missiles that hit.
+	18) Anti-Missile System (AMS) Ammunition, Anti-Missile Laser (AML), 
+and Pulse Anti-Missile Laser (PAML)
+	  Was somebody smoking dope at FASA and not invite us?  Why does 
+the original rules state that AMS get only 12 reloads?  Especially if you 
+can expend all 12 in one shot?  And treat an AMS ammo hit as machine gun ammo? 
+Hello?  Is this thing on?
+		A)  Increase AMS ammunition to 50 shots per ton.  Even that 
+	is being mean.  
+		B)  The Anti Missile Laser is an energy weapon based 
+	version of the AMS.  It operates exactly like an AMS except that 
+	there is no ammunition to go with the weapon.  After the AML has 
+	been used roll 2D6.  If a two is rolled then the focusing mechanism 
+	has been overstressed and has broken.  The AML cannot be used until 
+	repaired.
+		C)  The Pulse Anti-Missile Laser is a pulse energy weapon 
+	based version of the AMS.  It operates exactly like an AML except 
+	that the PAML can engage twice per turn and the heat generated is 
+	1D6 per engaging.  After each time that the PAML is engaged roll 
+	2D6, if a two is rolled the PAML's focusing device is damaged.  
+	This will knock out the PAML until repaired.  If the PAML is 
+	damaged on it's first use of the turn then it cannot be used again, 
+	that turn or for the rest of the game.
+	19) Icewind.  The Icewind system is not an offensive weapon but a 
+defensive heat reducing system.  It is a bottle of non-flammable gas in 
+liquid state under compression.  When the ambiant temperature of the mech 
+reaches a preset level the easy melt cap of the bottle melts, releasing a 
+cold cloud of vapor into the interior of the mech, cooling the mech off.
+		A)  For every Icewind installed put a line on the heat 
+	scale.  This represents the setting of the Icewind.  If multiple 
+	Icewinds are mounted settings can be put on the same line. 
+		B)  Resolve the heat buildup for the mech normally.  If the 
+	final heat level for that turn is above the rating of the 
+	Icewind(s) then each Icewind that it is above releases.  For each 
+	Icewind that releases reduce the heat scale by 4 points.  That is 
+	the final heat level for the mech for that turn.
+		C)  Once an Icewind has gone off it is gone for the game.  
+	In a campaign an Icewind can be reloaded same as doing a quick 
+	reload yet requires a coolant truck.
+	20)  Anti Aircraft Radar (AAR)  AAR is a special targeting system 
+that is used against any aerial target (Aerospace fighters, conventional 
+fighters, VTOL, and LAM in LAM mode but not mechs that are simply jumping.)
+		A)  For any attacks that are made against aerial targets 
+	that utilize AAR the movement to hit modifiers are halved.  
+	Example:  A mech with AAR that is running (+2 to hit) is trying to 
+	fire on a VTOL flying 11 hexes (+5 to hit).  The total modifier to 
+	hit is +7.  Since the mech is using AAR the total movement based to 
+	hit modifier is +3.5 which is rounded up to +4. 
+		B)  AAR does not compensate for any other to hit modifiers 
+	that might accumulate, such as heat, terrain, or pilot.
+		C)  AAR may be used by the affected targets listed in 
+	parenthesis above against other such targets.  AAR may not be used 
+	against targets on the ground.
+		D)  AAR does not have to be linked to all weapons on a 
+	mech/vehicle.  If AAR is linked to only certain weapons then only 
+	those weapons get the benefits of the AAR.
+		E)  AAR weighs 1 ton for every 5 tons of weapons that it is 
+	tied into.  It takes up one critical for every ton of weight.
+		F)  Once the AAR has taken one critical it is destroyed.  
+	The AAR cannot be mounted in the legs.
+		G)  Guardian ECM nullifies the capabilities of AAR if the 
+	defender has Guardian or the line of sight from the AAR using unit 
+	to the defender passes within 6 hexes of an enemy AAR.
+	21)  Ground Attack Radar (GAR) Ground Attack Radar is in game terms 
+functionally similar to AAR except that it can only be used by aerial 
+targets to fire upon ground targets.  (GAR is the AAR that *can* be used 
+against targets on the ground as mentioned in rule 19C.)  
+		A)  GAR can not be used to help in the fire of strafing 
+	runs.  GAR is used for firing upon individual targets while 
+	strafing saturates an area with fire.
+		B)  GAR can not be used by ground mechs/vehicles for use 
+	against other ground targets.  The only way for LAM to use 
+	GAR is for them to be flying in either LAM or fighter mode.  VTOLs 
+	or any other flying craft that has landed may not use GAR.
+		C)  For any attacks that are made against ground targets 
+	that utilize GAR the movement to hit modifiers are halved.  
+	Example:  A LAM in Airmech mode with GAR that is jumping (+3 to hit) 
+	is trying to fire on a mech running 6 hexes (+2 to hit).  The total 
+	modifier to hit is +5.  Since the LAM is using GAR the total movement 
+	based to hit modifier is +2.5 which is rounded up to +3. 
+		D)  GAR does not compensate for any other to hit modifiers 
+	that might accumulate, such as heat, terrain, or pilot.
+		E)  GAR does not have to be linked to all weapons on a 
+	mech/vehicle.  If GAR is linked to only certain weapons then only 
+	those weapons get the benefits of the AAR.
+		F)  GAR weighs 1 ton for every 5 tons of weapons that it is 
+	tied into.  It takes up one critical for every ton of weight.
+		G)  Once the AAR has taken one critical it is destroyed.  
+	The AAR cannot be mounted in the legs.
+		H)  Guardian ECM nullifies the capabilities of AAR if the 
+	defender has Guardian or the line of sight from the AAR using unit 
+	to the defender passes within 6 hexes of an enemy AAR.
+	22)  Infantry Pods are special cargo carriers that come with one 
+platoon of jump infantry that are mounted on mechs. The criticals that the 
+pods take represent special internal bracing for seating and life support 
+equipment.  The infantry take no damage from weapons hits to the mech 
+because they are in an armored pod, as opposed to hanging on the sides of 
+the mech.  The pod and/or exit doors are normally mounted/facing the back 
+or the top of the mech.  While these pods tend to grossly distort the 
+normal profile of the mech they do not make it any easier to target.
+		A)  The jump infantry may dismount from the mech as per 
+	regular infantry except that the mech does not need to expend 1mp.  
+	Remounting is per regular rules.  Remember that infantry may not 
+	move or fire the turn that they dismount.  The reaon that 1mp does 
+	not have to be expended is because the infantry can jump down and 
+	land safely while the mech is moving.
+		B)  The pods must be mounted in the torsos, head, or arms.  
+	If mounted in the arms the mech may not make make any physical 
+	attacks involving the arms while infantry are in their pod(s).  If 
+	the head or arm is "blown off" with 3 critical hits and the 
+	infantry are still in their pod(s) they suffer 2D6 casualties.
+		C)  When the Infantry Pod has suffered 1 critical hit any 
+	infantry still in the pods suffer 1D6 casualties and 1 casualty when 
+	the heat scale is 15-25 and 2 when it is 25+.  Double this number if 
+	the Infantry Pod has suffered 2 critical hits.  On the second 
+	critical hit 2D6 remaining infantry are destroyed.  Any infantry 
+	in the pod when it suffers its third critical hit are destroyed.
+		D)  The platoon of jump infantry comes free with the pod 
+	and does not have to be payed for in any manner.
+	23)  Battlearmor Infantry Pods (BAIP) are just like Infantry Pods 
+except that they carry one star (5 man team) of Battlearmor.  The rules 
+below will either refer you to the rules above or modify it.  These rules 
+are different and should not be confused with the *Mechanized Battlearmor* 
+rules on p.44-45 of _The Battletech Compendium_.
+		A)  Refer to note 22A.
+		B)  Same as note 22B except that when the location is 
+	"blown off" each trooper suffers 1D6 damage.
+		C)  When this type of infantry pod suffers 1 critical hit 
+	each trooper takes 1D6 points of damage.  On the second critical 
+	hit all remaining troopers are destroyed.  Battlearmor suffer no 
+	damage for excessive heat.
+		D)  When a BAIP is mounted on the mech it does not come 
+	with the Battle armor troops free.  Each point of Battle Armor 
+	counts as a 5 ton mech and most be "bought" as such.  They may be 
+	mounted in the BAIP at the start of the game.
+	24)  Self Destruct is a system for voluntarily making your mech 
+into a small ultrahot ball of thermal destruction.  It takes the reactor 
+fuel and dumps it into the reactor, after which the magnetic bottle is 
+allowed to decay rapidly.  The end result is a metallic vapor where the 
+mech used to be and blast marks for meters!!!
+		A)  The Self Destruct Device weighs one ton and takes up 
+	one critical hit location which must be located in one of the torsos.
+		B)  When activated the device destroys the mech and 
+	anything in the same hex.  Anything 1 hex away takes damage equal 
+	to the engine rating divided by 15.  If the mech is a 2x engine mech 
+	then the engine rating used is the sum of the 2 engine ratings.  If 
+	one of the engines has been destroyed due to damage then the total 
+	engine rating is based upon the one operating engine.
+		C)  The device is activated during the weapons attack phase 
+	as if it were a weapon.  No weapons may be fired if the device is 
+	to be activated.
+		D)  Units taking damage take target heat equal to 1/2 the 
+	damage taken, round down.  This target heat lasts for that turn 
+	only, similar to energy weapon target heat.
+		E)  Units that self destruct are destroyed and count 
+	towards the victory of the enemy.   
+		F)  It is assumed that the pilot(s) give themselves enough 
+	time to eject before the explosion.  Those of us that created these 
+	rules really don't care, but some of you might.  After all, life is 
+	cheap, mechs aren't.
+		TARGET	HEAT  RULES
+	These rules were created to simulate the fact that when certain 
+weapons hit they are going to create additional heat upon their target.  
+Certain weapons are designed for this task while others create target heat 
+do to the huge energy conversion of their damage.
+	The types of weapons that create target heat can be divided up into 
+two general groups:  energy weapons and incindiery weapons.  These two 
+weapons groups are treated seperately within these rules.  The target heat 
+that a weapon inflicts upon a target is listed in the TAR/HEAT column of 
+the weapons damage chart.  Incindiery weapons are marked with an (I).
+	TARGET HEAT FROM ENERGY WEAPONS:  When an energy weapon hits a 
+target it will recieve target heat.  The heat that the target recieves 
+affects it only for the turn that the weapon hit.  The target heat that a 
+target recieves is treated as heat generated by the mech that turn.  There 
+is no limit to the amount of energy weapon target heat that a unit can 
+receive.
+	EXAMPLE:  During turn 1 a mech has walked (+1 heat), fired 2 PPC 
+(+20 heat), and was hit by a PPC and 2 medium lasers (+3 heat).  Its heat 
+sinks must dissipate 24 heat that turn.  The next turn the same mech runs 
+(+2 heat), fires 2 PPC (+20 heat), and is hit by, among other weapons, 1 
+large laser and 3 medium lasers (+2.5 heat, rounded down to 2).  This turn 
+the mech must dissipate 24 heat.  Notice that none of the energy weapon 
+target heat from turn 1 did not carry over to the next turn.
+	TARGET HEAT FROM INCINDIERY WEAPONS:  Incindiery weapons are 
+generally inferno launchers and flamers/flamethrowers.  They are marked on 
+the weapons damage chart in the TAR/HEAT column with an (I).  Incindiery 
+weapon target heat is described on p.60 of _The Battletech Compendium_ 
+under the heading of Infernos.  The only additions to those rules is: 
+the max heat that a target can receive is 10 instead of 6, Inferno 
+Launchers have to roll to determine the number of missiles that explode 
+close enough to the target to generate target heat, and flamers/ 
+flamethrowers are considered in the same class as inferno launchers.
+			WEAPON  BANKING  RULES
+	Weapons can be mounted in pairs on the same weapon mount.  This is 
+known as "banking."  
+	A)  Banked weapons must be mounted in the same area of the 
+mech/vehicle.  For mechs both weapons must be completely in the hit 
+location area.  Example:  A pair of A/C 20's could not be banked on a mech 
+since 2 of them would not fit in any one hit location, be it a torso or an 
+arm.  A pair of Heavy PPC could be banked in an arm since it has 8 critical 
+locations and 2 HPPC would take up 8 critical slots.  The above pair of A/C 
+20's could be banked in the turret of a tank, but not on a mech. Remember 
+that Lower Arm and Hand actutors can be removed for more criticals.
+	B)  The weapons banked must be of the exact same type.  Exception:  
+Missile launchers of the same type but of different size can be banked.  
+	C)  Any weapon except for artillery weapons can be banked. 
+	D)  Banked weapons can fire together as one weapon.  For this only 
+one to hit roll is made.  If the bank hits then both weapons hit in the 
+same location.  If the to hit roll is missed then both weapons miss.  
+Banked weapons do not have to be fired as a bank, they may be fired 
+independently.
+	E)  Non-Energy weapons that are fired banked must both use the same 
+type of ammunition.  Different types of alternate ammunitions cannot be 
+used.  
+	F)  two .5 critical space weapons in the same critical slot are 
+automatically counted as being banked.  For other weapons to be counted as 
+banked there must be some discernable mark connecting the two weapons.
+	G)  If one banked weapon is destroyed there is no effect upon the 
+other weapon.  It may only fired independently though, and not banked with 
+another weapon.
+		ALTERNATE  AMMUNITIONS  FOR  WEAPONS
+	This section is a listing of the various types of different 
+munitions that can be used for weapons.  The basic format will be:
+WEAPON:  This will tell what weapon the ammo may be used for.
+DESCRIPTION:  This will give a description plus necessary special rules.
+ADVANTAGES:  Self explanatory
+DISADVANTAGES:  Self explanatory
+	Note:  All of the Alternate Ammunitions must be used as reloads in 
+full or half ton increments.  A part of a ton of one type of ammunition 
+cannot be mixed with a complementary part of a ton of another type.  Be 
+prepared that some 20th Century acronyms are used using different words.  
+This reflects that the names will change to reflect changing technology.  
+Other types use a name from history to represent what they are loosely 
+based upon.  All ammunition types must be specified before the start of the 
+game.  Any unspecified reloads are assumed to be standard.
+Cannister Shot Ammunition
+	WEAPON: Rail Gun, Rail Cannon, Gauss Rifle, and Gauss Cannon
+	DESCRIPTION:  Cannister Shot is where the standard round slug is 
+replaced with a container of submunitions.  The net effect is that the 
+damage is spread all over the target hit.  Cannister is a less volatile 
+(and less effective) version of Silver Bullet ammunition.
+	ADVANTAGES:  When a target has been it with Cannister Shot roll on 
+the standard Missile Hit Chart under the column for the damage that the 
+weapon does.  This is the amount of damage that the weapon does.  Roll for 
+hit location for each point of damage (as per the LB-X autocannon cluster 
+munitions.)
+	DISADVANTAGES: Due to the size and shape of the Cannister shot 
+round Gauss Cannons only get 10 shots per ton of reloads, the Gauss Rifle 6, 
+and the Gauss Cannon 3 shots per ton.
+Chain Shot Ammunition
+	WEAPON: Rail Gun, Rail Cannon, Gauss Rifle, and Gauss Cannon
+	DESCRIPTION:  Chain Shot takes a round of shot and replaces it with 
+2 hollow hemispheres connected by a heavy chain.  The tendency for the 
+chain to wrap around part of a mech creates problems for the pilot of the 
+target mech.  The reduced volume of the shot reduces the damage done.
+	Take the base damage for the weapon firing and divide it by 3.  
+This is the damage that each of the 2 halves will do.  When the weapon hits 
+each of the halves will hit a potentially different hit location.  To 
+represent the wrapping possibility of the chain the hit location procedure 
+is modified.  For each half roll a D6 to represent the direction that the 
+half will hit from.  A roll of 1 means damage is rolled on the front, 2 
+goes to the right side front (Roll on the right side hit location table, 
+torso damage goes on the front), 3 to the right side rear, 4 to the rear, 
+5 to the left side rear, and 6 rolls on the left side front.  Once the 
+direction has been determined roll 2D6 for location as per normal rules.
+	ADVANTAGES:  When hit the target must make a piloting skill roll 
+with a +2 penalty, +4 if both halves hit the legs.  If this is failed then 
+the target mech falls.  Any piloting skill rolls after being hit by chain 
+shot are at a +1 penalty until the mech expends 1 MP to free itself of the 
+chain.  Each chain shot that accumulates gives an additional +1 penalty to 
+the Piloting Skill Roll.  Example:  A mech has been hit by 3 chain shots in 
+one turn.  Trying to get back up will require a piloting skill roll with a 
++3 penalty due to the 3 chain shots hanging fom it.  After getting back up 
+the mech expends 2 MP to free itself of 2 chain shots.  From here the mech 
+makes piloting skill rolls with a +1 penalty due to the remaining chain 
+shot hanging from it.
+	DISADVANTAGES:  Since the Chain Shot is very unpredictable in its 
+ballistic characteristics there is a +2 to hit penalty.  Vehicles do not 
+have to make a piloting skill roll when first hit, but still have the 
+piloting skill roll penalties just as mechs.
+Nested Slug Ammunition
+	WEAPON: Rail Cannon, Gauss Rifle, and Gauss Cannon
+	DESCRIPTION:  Nested Slug Ammunition uses a nested set of Rail Gun 
+rounds instead of one large round.  It distributes the damage over several 
+areas.  The round still does full damage, it just divides it over 2, 3, or 
+4 areas.
+	ADVANTAGES:  NS ammo divides the damage into groups of 5 points.  
+Roll for damage location for the 2 or 3 groups of 5 damage points 
+seperately.
+	DISADVANTAGES: Due to the size and shape of the NS round Gauss 
+Cannons only get 10 shots per ton of reloads, the Gauss Rifle 6, and the 
+Gauss Cannon 3 shots per ton.
+Silver Bullet Ammunition
+	WEAPON: Rail Gun, Rail Cannon, Gauss Rifle, Gauss Cannon
+	DESCRIPTION:  Silver Bullet ammo is a single round with an 
+explosive charge in the center.  This charge is used to explode the round 
+near its target.  If a hit is made using SB ammo roll to determine the 
+amount of damage on the 5, 10, 15, or 20 column of the missile hit chart.
+Distribute each point of damage individually (like an LBX autocannon 
+round).
+	ADVANTAGES:  When firing SB ammo there is a -1 to hit modifier.
+	DISADVANTAGES:  In addition to the weapon doing damage when hit as 
+per normal rules the ammo will explode when hit by a critical hit or 
+exploding due to heat.  When exploding there will be 5, 10, 15, or 20 
+points of damage per round exploded, explosion strength per round based 
+upon original damage value of weapon.
+Smart Rock Ammunition
+	WEAPON: Rail Gun, Rail Cannon, Gauss Rifle, Gauss Cannon
+	DESCRIPTION:  Smart Rocks replace some of the shot mass with a 
+small guidance system and compressed gas steering rockets.
+	ADVANTAGES: There is a -1 to hit bonus when firing at medium 
+range, a -2 to hit when firing at long range, -3 to hit at extreme range 
+and -4 to hit at maximum range with Smart Rocks.
+	DISADVANTAGES:  When firing smart rocks there is a +1 additional to 
+hit modifier when firing inside minimum range.  Weapon damage is reduced  
+also.  Rail Guns score 2 points of damage, Rail Cannons score 5, Gauss Rifles 
+score 7 points, and Gauss Cannons score 10 points when firing Smart Rocks.
+Armor Peircing Discarding Sabot (APDS) Ammunition
+	WEAPON: Auto cannons, LB-X autocannons, Ultra auto cannons
+	DESCRIPTION:  APDS ammo replaces the normal round with a smaller, 
+high velocity, high density penetrator round inside a sabot.
+	ADVANTAGES:  APDS ammo does some internal damage when the round 
+hits.  Refer to the chart below.
+	A/C or LBX	Armor Damage	Internal Damage
+	----------	------------	---------------
+	    2		     1			1
+	    5		     3			2
+	    10		     7			3
+	    15		    10			5
+	    20		    13			7
+	DISADVANTAGES:  The APDS round is a high compression round that 
+autocannons have trouble handling.  Whenever APDS rounds are fired roll a 
+second 2D6 for a stress check.  If a 2 or a 3 is rolled the autocannon has 
+broken some linkage on it.  That autocannon may still fire but has a +2 to 
+hit penalty.  If the autocannon continues to fire APDS roll a stress check 
+with a 2, 3, 4, or 5 as a failure.  If the autocannon fails this second 
+check it is considered destroyed.  Autocannon Ultras that fire 2 APDS 
+rounds roll stress checks twice.  LB-X Autocannons get a -1 bonus on the 
+stress check roll.   When APDS ammo takes a critical hit or explodes the 
+internal damage produced is twice that for normal exploding ammo.
+Bolt Thrower (BT) Ammunition
+	WEAPON: Auto Cannons, LB-X Cannons, Ultra auto cannons
+	DESCRIPTION:  Bolt Thrower ammunition is a standard auto cannon 
+round that has roughly half the round's mass removed to accomadate a solid 
+fuel propellent.  This propellent increases the range of the round 
+significantly.
+	ADVANTAGES:  When using Bolt Thrower ammo the classes of 
+autocannons have these ranges:
+	Class	Short	Medium	Long	Extreme	 Maximum	Damage
+	-----	-----	------	----	-------	 -------	------
+	  2	1-12	13-24	25-36	 37-48	  49-60		   1
+	  5	1-9	10-18	19-27	 28-36	  37-45		   3
+	 10	1-8	 9-16	17-24	 25-32	  33-40		   5
+	 15	1-6	 7-12	13-18	 19-24	  25-30		   8
+	 20	1-5	 6-10	11-15	 16-20	  21-25		  10
+		NOTE:  Minimum Ranges are not affected.
+	DISADVANTAGES:  As can be seen from the table above the damage 
+produced is 50% of the normal autocannon round due to the reduction in 
+mass.
+Cluster Ammunition:
+	WEAPON: LB-X Autocannons
+	DESCRIPTION:  Cluster Ammunition is the standard cluster round that 
+the LB-X autocannons use as presented on p.120 in _The Battletech 
+Compendium_.
+	ADVANTAGES:  As per the rules.
+	DISADVANTAGES:  Only LB-X autocannons can use these rounds.
+Flechette Ammunition:
+	WEAPON: LB-X Autocannons
+	DESCRIPTION:  Flechette Ammunition is similar to Cluster ammunition 
+except that it is specially designed for taking out infantry, battlearmor, 
+and clearing trees.
+	ADVANTAGES:  Flechette Ammunition does double normal damage versus 
+infantry and battlearmor.  Flechette retains the -1 to hit bonus of LB-X 
+Cluster rounds.  When firing LB10X or bigger with Flechette rounds to clear 
+heavy woods instead of reducing the heavy woods to a light woods as per the 
+rules these rounds will reduce them to a rough hex.
+	DISADVANTAGES:  When firing this ammunition versus mechs or 
+vehicles apply a -2 penalty to the roll on the Missile Hit Chart to determine 
+the amount of damage.  Any rolls below 2 are treated as a 2.
+HEAP Ammunition:
+	WEAPON: Auto Cannons, LB-X Cannons, Ultra auto cannons
+	DESCRIPTION:  High Explosive Armor Piercing rounds use a shaped 
+charge chemical warhead that burns through the armor to produce armor and 
+internal structure damage.
+	ADVANTAGES:  HEAP rounds do some internal damage and target heat in 
+addition to the armor damage.  Refer to the chart below.
+A/C or LBX	Armor Dam.	Internal Dam.	Target Heat
+----------	----------	-------------	-----------	
+    2		     1			1	     1
+    5		     3			1	     2
+    10		     6			2	     3
+    15		     9			3	     4
+    20		    12			4	     5
+	DISADVANTAGES:  HEAP rounds use a directional charge to do their 
+damage.  If the round(s) hit at the wrong angle then the blast is 
+ineffective.  To represent this these rounds have a +1 to hit penalty.  
+Against Level 1 Ceramo-Steel armor HEAP rounds do no target heat on the 
+target and against Level 2 Ceramo-Steel armor HEAP rounds do only armor 
+damage, no Internal or Target Heat damage.  Due to the slow speed of these 
+rounds Reactive Armor can affect them.  Apply the 1/2 damage rule from 
+Reactive Armor to these rounds also when fired against a target with 
+Reactive Armor.
+Bangalor Missiles
+ 	WEAPON: MRM, TSM, LRM, BRM
+	DESCRIPTION:  Bangalor missiles have for a warhead several line 
+charges acting as Bangalor Torpedoes (an Army engineer obstacle clearing 
+charge).  These line charges also have landing spikes that allow them to 
+land without bouncing or to stick to the side of buildings.
+	ADVANTAGES:  Bangalor missiles can do either of two things:
+		Minefield clearing: Bangalor missiles can be used to attack 
+mined hexes of any type.  Bangalor missiles will reduce the attack strength 
+of a mined hex by the number of missiles/attack strength per hex in the attack. 
+EXAMPLE:  A hex that has been mined by a 20 point FASCAM is attacked by 5 
+point Bangalor attack.  Assuming that the attack hits the mined hex will have 
+its attack strength reduced by 5 down to 15.  
+	Preset conventional minefields (as per p.60-61 of _The Battletech 
+Compendium_) have an attack strength of 6 and Command Detonated hexes have a 
+strength of 10 (assuming the hex is attacked blindly in hopes that it is 
+mined).  Vibrabomb hexes that are attacked have their sensitivity rating 
+lowered by the Bangalor missile attack strength.  When the rating reaches 0 
+the vibrabomb detonates as if tripped.
+		Building/fortification destruction:  Bangalor missiles do 
+double damage against buildings or any structure that has its strength 
+listed in CF.
+	DISADVANTAGES:  Bangalor missiles do no damage against mechs, 
+vehicles, or infantry.  TAG, Artemis, and NARC work only when firing 
+Bangalors against buildings.
+FASCAM Missiles, FASCAM Artillery Rounds
+	WEAPON:	MRM, TSM, LRM, BRM, All Artillery Weapons
+	DESCRIPTION:  FASCAM Missiles and FASCAM Artillery Rounds deliver 
+Field Artillery SCatterable fAmily of Mines.  Each warhead contains an even 
+mix of anti-vehicle and anti-personnel mines.
+	ADVANTAGES:  FASCAM missiles are treated just like Thunder LRM as 
+described on p.121 of _The Battletech Compendium_.  FASCAM Artillery Rounds 
+deliver minefields over an area of 7 hexes: the target hex and the 6 
+surrounding.  FASCAM Artillery Rounds deliver minefields in strengths equal 
+to the damage that they would do normally.  EXAMPLE:  A Long Tom is firing 
+a FASCAM shell.  When the shell lands the hex hit will have a 20 point 
+minefield and each of the 6 surrounding hexes will have a 10 point 
+minefield.  FASCAM TSM are handled in a manner similar to FASCAM Artillery 
+Rounds except that the attack values are 5/2 per missile that lands in the 
+target hex.  
+	DISADVANTAGES:  The number of reloads per ton is half that for 
+normal missiles/artillery rounds.  FASCAM missiles are not affected by TAG, 
+Artemis, or NARC.
+Fuel-Air Explosive (FAE) Missiles
+	WEAPON: TSM
+	DESCRIPTION:  FAE missiles replace the standard explosive charges 
+of TSM missiles with a Thermite ignited canister of hydrocarbon fuel.  The 
+resulting explosion produces armor damage and target heat.
+	ADVANTAGES:  Each FAE missile does 3 points of damage/ 2 points 
+of incindiery target heat to the target hex and 1 point of damage/ 1 point 
+of incindiery target heat to the 6 surrounding hexes.  The incindiery 
+target heat lasts for 3 turns as per the Inferno rules.
+	DISADVANTAGES:  FAE missiles use the inferno rules concerning 
+checking for ammo explosion due to heat.  If FAE missile ammunition does 
+explode due to heat or critical hit each missile explodes for 10 points of 
+damage.
+Smoke Missiles
+	WEAPON: TSM
+	DESCRIPTION:  Smoke Missiles are designed to fill the target hex 
+and adjacent hexes with smoke.
+	ADVANTAGES:  Each missile will produce a 1 elevation high 
+smoke cloud in the target hex and the 6 adjacent hexes that lasts for 1 
+turn for each missile that hits that hex.
+	DISADVANTAGES:  These missiles do no damage to any unit in the 
+target hexes.  
+Swarm Missiles
+	WEAPON: MRM, LRM, BRM
+	DESCRIPTION:  Swarm missiles are special missiles using hundreds of 
+submunitions able to saturate an area.
+	ADVANTAGES:  Swarm missiles are used just as the description on 
+p.121 of _The Battletech Compendium_ for Swarm LRMs.  For the BRM to 
+determine the number of missiles that hit a secondary target use a D6 for 
+every 6 missiles remaining, disregarding remaining portions of 6. 
+	DISADVANTAGES:  The number of reloads per ton is half that for 
+normal missiles.
+	TOW Missiles
+	WEAPONS: MRM, LRM, BRM
+	DESCRIPTION:  TOW Missiles are optically tracked, wire guided 
+missiles.  They operate in a manner similar to FTL missiles in that only 
+some of the missiles in a rack are wire guided while the rest follow.
+	ADVANTAGES:
+		-3 to hit if firing unit is stationary
+		-2 to hit if firing unit walked/cruised
+		-1 to hit if firing unit ran/flanked
+	addit.	-1 to hit if target is the only target to be attacked
+	DISADVANTAGES: Double all terrain to hit modifiers to reflect the 
+possibility of guide wire snap.  Above advantages are lost if firing unit 
+plans to enagage in close combat.  If the firing unit takes the advantages 
+then it may not make close combat attacks.  TOW missiles may not be fired 
+indirectly.  TOW missiles are not affected by NARC, Artemis, or Guardian.
+Follow The Leader (FTL) Missiles
+	WEAPONS: CRM, SRM, MRM, LRM, BRM
+	DESCRIPTION:  A modification to the guidance system of the missiles 
+has the majority of the missiles in a rack follow one missile.  
+	ADVANTAGES:  FTL missiles do not scatter their damage all over the 
+target but concentrate in one location.  Example:  If an LRM 20 rack fires 
+with FTL missiles and hits with 12 missiles the missiles will all hit on 
+one damage location area as opposed to 5 in one area, 5 in another, and 2 
+in a third.
+	DISADVANTAGES:  For FTL missiles to work the lead missile must be 
+one that hits.  Occasionally the targetting systems will follow the wrong 
+missile.  Firing with FTL missiles has a +2 Fire Modifier penalty. 
+Radar Guided Missiles (RG)
+	WEAPONS: CRM, SRM, MRM, LRM, BRM
+	DESCRIPTION:  The crude guidance system of the missile has been 
+replaced by a rough radar unit.  These guidance systems are not very good, 
+yet not overly affected by Guardian ECM.
+	ADVANTAGES:  
+		-1 to hit light mechs
+		-2 to hit medium mechs
+		-3 to hit heavy mechs
+		-4 to hit assault mechs
+	addit.	-1 to hit if target has been hit by NARC
+	DISADVANTAGES:  RG missiles when fired have any terrain to hit 
+modifiers doubled.  If the target is within 6 hexes of an enemy ECM unit 
+then the above modifiers are ignored and there is a +1 to hit.  If fired 
+indirect and miss their original target then roll another to hit for any 
+one randomly determined target within the 6 hexes immediately surrounding 
+the target.  If the to hit is made then the missiles hit that unit instead.
+Keep doing this procedure until an alternate target is hit or all possible 
+alternate targets within the 6 hexes have been missed.  (If any 
+clarifications are needed, the rules are similar to those involving Swarm 
+missiles except that only one target is hit.)  RG missiles are not affected 
+by Artemis or TAG lasers.   Multiply the number of reloads by .75 for Radar 
+Guided missiles.  RG missiles are not affected by Artemis.
+Radiation Seeking Missiles
+	WEAPONS: CRM, SRM, MRM, LRM, BRM
+	DESCRIPTION:  These missiles rely upon the emitions of special 
+electronics to home in on their target.  They are not very good if the 
+target does not have special electronic gear operating.
+	ADVANTAGES:  The missiles have a -2 to hit bonus against any units 
+that have active Guardian, Beagle, AAR, or GAR.  For targets that have a 
+NARC attached to them double the NARC bonuses.
+	DISADVANTAGES:  The missiles have a +2 to hit penalty against any 
+unit that does not have the above systems operating.
+Heat Seeking (HS) Missiles
+	WEAPONS: CRM, SRM
+	DESCRIPTION:  The HS warheads replace part of the explosive payload 
+with an infrared guidance system.
+	ADVANTAGES:  HS missiles receive a to hit bonus equal to the target 
+mech's Fire Modifier from heat buildup (if any) from the beginning of the 
+turn. In addition, if the target is receiving incindiery target heat from 
+Infernos or Flamers/Flame Throwers there is a to hit bonus equal to the 
+square of the target heat generated by the incidiery weapons, rounded down.  
+Example:  A mech has ben hit by a Flame Thrower and is receiving 5 incindiery 
+target heat.  The square root of 5 is 2.23 which is rounded down to 2.  Any 
+HS missiles fired at that mech get a to hit bonus of -2.  If the missiles score 
+critical hits then they are automatically heat sinks before anything else.
+	DISADVANTAGES:  HS SRM do 1 point while HS CRM do 2 points of damage 
+per missile that hits (as well as blow up for that amount in ammo 
+explosions.)  If the heat scale of the target mech is 0 then Heat Seeking 
+missiles have a +2 to hit. HS missiles are not affected by Artemis or NARC.
+Laser Guided Missiles (LGM)
+	WEAPONS: CRM, SRM, MRM
+	DESCRIPTION:  LGM require the guidance of a TAG laser to work 
+effectively.  When the TAG laser hits the target then there is a marked 
+increase in the percentage of missiles that hit.  When the TAG laser 
+misses then the probability of a hit decreases
+	ADVANTAGES:  LGM get a +3 on the Missile Hit Chart if the target is 
+TAGed by the firing mech.  The -1 to hit for each missile launcher tied 
+into a TAG laser as per the TAG laser note above still applies.  LGM that 
+are following a TAG beam do not get to hit penalties due to Chameleon 
+System.
+	DISADVANTAGES:  The announcement to fire LGM and TAG laser(s) must 
+be made and adhered to before any dice are rolled.  If LGM and TAG are 
+fired and no TAG laser hits then the LGM *must* be fired with a +2 to hit.  
+Only TAG laser(s) fired from the firing mech can TAG a target for LGM to 
+get their bonusses.  LGM can be fired without the intention to TAG the 
+target with a +2 to hit penalty.  
+Tandem Charge (TC) Warhead Missiles
+	WEAPONS: CRM, SRM
+	DESCRIPTION:  The TC warhead contains two shaped charge warheads 
+where one punches a hole in the armor allowing the second to damage the 
+internal structure.
+	ADVANTAGES:  CRM with TC warheads do 2 points of armor and one 
+point of internal structure damage per missile.  SRM with TC warheads do 1 
+point of armor and 1 point of internal damage.  If the area hit has no 
+armor then each missile that hits does 1 point of damage due to the 
+narrowness of the impact area.
+	DISADVANTAGES:  The number of reload shots per ton is multiplied by 
+.75, round down.  This represents the extra room required to hold the 
+larger warheads.  For ammo explosions, treat each TC CRM as having a 4 
+point warhead and each TC SRM as having a 3 point warhead.  TC warhead 
+internal damage against its target roll to score critical hits on the 
+Critical Hits Effects table with a -3 modifier.  (TC warheads score only 
+1 critical on a roll of 11 or 12.)
+Beehive Artillery Shells
+	WEAPONS:  Long Tom, Sniper, Thumper
+	DESCRIPTION:  These shells are effectively huge shotgun shells used 
+to fire directly upon approaching enemy.  They are primarily used as a last 
+ditch weapon to beat back unwanted interlopers, making use of this shell 
+rare.  Under normal circumstances a gun train might have 1 ton per gun of 
+reloads.  On rare occasions when artillery guns are expected to be very 
+close to the fighting 2-3 tons of reloads per gun are carried.
+	ADVANTAGES:  These shells make the artillery guns act just like 
+LB-X autocannons.  Take the base damage of the gun (20 for Long Toms, 10 
+for Snipers, and 5 for Thumpers) and roll 2D6 under that number on the 
+Missile Hit chart *twice*.  These 2 values are added together to determine 
+the damage done.  Each point of damage is allocated seperately.  
+EXAMPLE: (The Shot from Hell) A Long Tom fires a Beehive Artillery round at 
+an approaching mech and hits.  Since the Long Tom does 20 points of base 
+damage it rolls under the 20 column of the Missile Hit Chart twice.  The 
+Long Tom miraculously rolls an 11 and a 12 doing 40 points of damage.  
+Somebody had more than just a bad hair day...
+	DISADVANTAGES:  The range of these rounds in hexes is equal to the 
+number of boards that the gun can fire normal rounds.  The base to hit 
+number is 9 regardless of range. 
+Copperhead Artillery Shells
+	WEAPONS:  Long Tom, Sniper, Thumper
+	DESCRIPTION:  These are missiles that are shot from the tube of the 
+gun towards the general area of impact.  In flight on the descent the 
+missiles rocket motor takes over and allows the missile to home in on a 
+TAGed target.
+	ADVANTAGES:  Follow the rules in the last three paragraphs of the 
+last column under the rules for "Arrow IV Missile Artillery System" on 
+p. 117 of _The Battletech Compendium_.  These rules apply to Copperhead 
+Artillery Shells.  The Long Tom Copperhead does 20 points of artillery 
+damage to the target and 5 points to any other unit in the hex.  The 
+Sniper Copperhead does 10 points of artillery damage to the target and 2 
+points to any other unit in the hex. The Thumper Copperhead does 5 points 
+of artillery damage to the target and 1 point to any other unit in the hex.
+	DISADVANTAGES:  These shells cannot be used as standard artillery 
+shells.  They must be used as TAG homing missiles.  They cannot carry any 
+special kind of warhead.
+Dam Buster Artillery Shells
+	WEAPONS:  Arrow IV, Bolt III, Dart II, Long Tom, Sniper, Thumper
+	DESCRIPTION:  These shells replace their normal high explosive 
+warheads with a concussionary charge.  These have the capability to clear 
+minefields by setting off the mines and to damage buildings better.  These 
+were first developed by a Long Tom gunner to destroy a dam that, with its 
+destruction, was able to knock out a company of enemy mechs.
+	ADVANTAGES:  The target and adjacent hex damage of these shells are 
+used to reduce the attack strength of mine hexes as per the rules for 
+Bangalor missiles.  These shells will also do double damage to any 
+structure with a CF rating.  EXAMPLE: Should a three hex long building be 
+hit in the center hex by a Long Tom Dam Buster then it would receive 80 
+points of damage. (20x2 for the center hex of the building + 10x2 + 10x2 
+for each of the adjacent hexes of the building)
+	DISADVANTAGES:  These shells do 1/4 damage to infantry, vehicles, or 
+mechs.
+Illumination Artillery Shells
+	WEAPONS:  Dart II, Thumper
+	DESCRIPTION:  These shells shoot a round that has a brightly 
+burning peice of metal (usually Magnesium) with a parachute attached.  
+These shells are used to eliminate the effects of darkness during night 
+fights.
+	ADVANTAGES:  Fire this shell as if it were a normal shell.  When 
+the hex of impact is determined this is actually the hex above which the 
+illumination shell floats down on its parachute.  This hex will drift in 
+the direction of the wind for each turn that it is up.  The illumination 
+covers an area with a radius of 10 hexes for 3 turns. 
+Smoke Artillery Shells
+	WEAPONS:  Arrow IV, Bolt III, Dart II, Long Tom, Sniper, Thumper
+	DESCRIPTION:  These smoke round rules replace those on p. 49 of 
+_The Battletech Compendium_.
+	ADVANTAGES:  	
+	Arrow IV & Long Tom:  These smoke rounds produce a 2 elevation high 
+smoke cloud in the target hex and the 6 adjacent hexes that lasts for 3 
+turns.
+	Bolt II & Sniper:  These smoke rounds produce a 1 elevation high 
+smoke cloud in the target hex and the 6 adjacent hexes that lasts for 3 
+turns.
+	Dart II and Thumper:  These smoke rounds produce a 1 elevation high 
+smoke cloud in the target hex and the 6 adjacent hexes that lasts for 1 
+turn.
+Telemetry Artillery Shells
+	WEAPONS:  Arrow IV, Bolt III, Dart II, Long Tom, Sniper, Thumper
+	DESCRIPTION:  These shells are used to better adjust fire with 
+artillery guns using a signal that orbitting geo-positional satellites pick 
+up.  The satellites then tell the firing crew, within 10 meters, where the 
+shell landed.  The shell also releases a small marker cloud that observers 
+can use to better observe where the shell landed.
+	ADVANTAGES:  These shells allow artillery peices to adjust fire 
+against fixed positions without the need of an observer.  If these shells 
+are fired with the help of an observer then there is a -2 bonus for 
+adjusting fire with the next shot.  The bonuses do not add on to each other 
+if Telemetry shells are used 2 or more times in a row.  These bonuses are 
+cumulative with observer and artillery gunner modifiers.
+	The hex that a Telemetry shell lands in counts as a "pre-registered 
+hex" as per p. 48 of _The Battletech Compendium_ once the shell has landed.  
+Any shots against this hex automatically hit.
+	DISADVANTAGES:  These shells do no damage at all.  The bonus will 
+only help the gun/launcher that fired the shell or any gun/launcher that is 
+connected to the firing unit via C^3.  It is not possible for one gun to do 
+the sounding shots for another gun unless they are connected by C^3 as per 
+the C^3 rules.
+White Phospherous Artillery Shells
+	WEAPONS:  Arrow IV, Bolt III, Dart II, Long Tom, Sniper, Thumper
+	DESCRIPTION:  The "Willie Pete" White Phosperous (WP) round is the 
+field artillery version of Inferno missiles.  This safer medium of 
+delivering incindieries does not last as long as Inferno liquid, yet is the 
+only kind that can stand the shock of firing without exploding.
+	ADVANTAGES:  Given below is a table showing the target heat that WP 
+shells deliver to the units in the hex of impact and the 6 surrounding 
+hexes.  Target is heat listed as X/Y is treated where X is the target heat 
+that any units in the hex of impact receive and Y is the target heat that 
+any units in a surrounding hex take.  
+Damage Rating	Turn 1	Turn 2	Turn 3	Turn 4
+-------------	------	------	------	------
+20/10		 10/10	 10/5	  5/2	  2/0
+10/5		 10/5	  5/2	  2/0
+5/2		  5/2	  2/0
+NOTE:  The Damage rating is the damage that the weapon would do if it were 
+to fire a regular shell.  Obviously a bigger shell will do more heat 
+longer.
+	DISADVANTAGES:  WP rounds do no damage, only target heat.  WP 
+rounds are treated just like Infernos for purposes of interactions with 
+Coolant Cannons.  (If the Coolant Cannon were to use liquid oxygen instead 
+of liquid nitrogen then double the heat inflicted, up to 20.)
+		E X P A N D E D   I N F A N T R Y   R U L E S
+	These rules are written to rectify the rules for infantry in 
+Battletech.  This is done under the following assumptions:
+	1)  When determining the size of a balanced game each side will 
+determine its size in tons instead of some financial unit such as C-Bills.
+	2)  If sides are determined in tons then the various types of 
+infantry are inherently different in capability.  
+	3)  If the various types of infantry are different incapability 
+then one or a few types will be taken over all the others.  This eliminates 
+some of the diversity that commanders can expect on the battlefield and 
+some of the realistic options that a commander can use in determining 
+his/her force composition.
+	With these reasons the rules for infantry will be changed or 
+expanded to make their use more defined and balanced.
+	Equivelant tonnage: Free for standard infantry. They weigh no tons  
+when determining their "cost."  The only requirement is that they be 
+transported onto the battlefield in some vehicle or mech.  For transport by 
+mech refer to the infantry pods in the weapons list and notes.  For transport 
+by vehicle refer to the Infantry Carrier rules in _The Battletech Compendium_ 
+on page 44.
+	Battlearmor are handled differently from standard infantry in that 5 
+tons must be "paid" for each point of 5.  Battlearmor does not have to be 
+carried on to the field via APC yet may be desirable.
+	Movement modifiers:  This ill defined subject is addressed and 
+changed here.  Infantry recieve a -1 to hit bonus if they do not move and 
+no penalties for moving.  Since infantry do not have a "running" speed there 
+are no like modifiers.  Jump infantry and battlearmor that jump as part of 
+their movement get a +1 to hit penalty.
+	Infantry type modifications:  Since all movement types of infantry 
+"cost" the same, there must be some way to make all the infantry from rifle 
+up to SRM platoons equal.  Below are the rules changes, if any, to the 
+various types of infantry and battlearmor to make them equal.
+	Rifle Platoons:  The special advantage that Rifle Platoons get is 
+that when they score damage and roll for location, that location may be 
+shifted up or down by one.  This shows that the soldiers are better able to 
+control and call their shots.  EXAMPLE:  A rifle platoon has hit a mech 
+from the front and has rolled a 6 for damage location, giving a right torso 
+hit for the 5 point group.  The rifle platoon has the option of shifting that 
+damage location roll from a 6 to a 5 or 7, hitting the right leg or the center 
+torso.  The last 2 points are rolled to hit 11, left arm.  The rifle 
+platoon may shift it to 10, left arm again, or to 12, head.  Obviously it 
+will be shifted to the head.
+	Machine Gun Platoons:  Machine gun platoons recieve a -1 to hit 
+bonus due to hit due to the directed high rate of fire of their weapons.
+	Flamer Platoons:  Flamer platoons get the bonus of doing heat 
+damage in addition to their normal damage.  They inflict 3 turns of 
+incindiery heat as per the target heat rules equal to their damage value.  
+EXAMPLE:  A flamer platoon with 16 men hits a mech doing 5 points of damage 
+and 5 points of target heat which lasts for 3 turns.
+	Laser Platoons:  Laser platoons inflict 1 point of target heat for 
+every 7 infantrymen in the platoon, round fractions down.
+	SRM Platoons:  SRM platoons may not use any of the different SRM 
+warheads or guidance systems available for mech mounted SRMs.
+	Machine Gun Battlearmor:  Machine gun battlearmor recieve a -1 to 
+hit bonus due to the directed high rate of fire.
+	Flamer Battlearmor:  Flamer battlearmor use the flamer rules as 
+presented in the weapons list.
+	Small Laser Battlearmor:  No changes.
+CREDIT FOR IDEAS:
+	Below is listed the folks and their ideas that went into the 
+creation of these weapons/systems.  Some of these ideas were taken without 
+their permission from the rec.games.mecha archives (Sorry if you don't like 
+it, but *YOU'RE* the one that posted it!) and some were taken from real 
+Battletech stuff.  If you have any questions, comments, quips, death 
+threats, bribes, or constructive criticisms drop me some private Email at 
+MURRAYMD@UDAVXB.OCA.UDAYTON.EDU.  I'll let you figure out the legalities...
+	JESSE.TAYLOR@BBS.OIT.UNC.EDU
+		Anti-Missile Laser
+		Infantry Pods (Battle Armor Infantry Pods are an outgrowth 
+			of this idea by myself.)
+	CLARKA@NETCOM.COM
+		Pulse Anti-Missile Laser
+	ROLEARY@ST.NEPEAN.UWS.EDU
+		TOW Missiles
+		Laser Guided Missiles
+		Radar Guided Missiles
+	EMEU09@CASTLE.ED.AC.UK
+		Cockpit Second Seats/Observers (basic idea)
+                      BEAUTY AND THE BEAST
+   Once upon a time . . . as a merchant set off for market, he asked each of
+his three daughters what she would like as a present on his return. The first
+daughter wanted a brocade dress, the second a pearl necklace, but the third, 
+whose name was Beauty, the youngest, prettiest and sweetest of them all, said
+to her father:
+   "All I'd like is a rose you've picked specially for me!"
+   When the merchant had finished his business, he set off for home. However, 
+a sudden storm blew up, and his horse could hardly make headway in the howling
+gale. Cold and weary, the merchant had lost all hope of reaching an inn when
+he suddenly noticed a bright light shining in the middle of a wood. As he drew
+near, he saw that it was a castle, bathed in light.
+   "I hope I'll find shelter there for the night," he said to himself. When he
+reached the door, he saw it was open, but though he shouted, nobody came to
+greet him. Plucking up courage, he went inside, still calling out to attract
+attention. On a table in the main hall, a splendid dinner lay already served. 
+The merchant lingered, still shouting for the owner of the castle. But no one 
+came, and so the starving merchant sat down to a hearty meal.
+   Overcome by curiosity, he ventured upstairs, where the corridor led into
+magnificent rooms and halls. A fire crackled in the first room and a soft bed 
+looked very inviting. It was now late, and the merchant could not resist. He 
+lay down on the bed and fell fast asleep. When he woke next morning, an 
+unknown hand had placed a mug of steaming coffee and some fruit by his
+bedside.
+   The merchant had breakfast and after tidying himself up, went downstairs to
+thank his generous host. But, as on the evening before, there was nobody in 
+sight. Shaking his head in wonder at the strangeness of it all, he went 
+towards the garden where he had left his horse, tethered to a tree. Suddenly, 
+a large rose bush caught his eye.
+   Remembering his promise to Beauty, he bent down to pick a rose. lnstantly, 
+out of the rose garden, sprang a horrible beast, wearing splendid clothes. Two
+bloodshot eyes, gleaming angrily, glared at him and a deep, terrifying voice 
+growled: "Ungrateful man! I gave you shelter, you ate at my table and slept in 
+my own bed, but now all the thanks I get is the theft of my favourite flowers!
+I shall put you to death for this slight!" Trembling with fear, the merchant 
+fell on his knees before the Beast.
+   "Forgive me! Forgive me! Don't kill me! I'll do anything you say! The rose 
+wasn't for me, it was for my daughter Beauty. I promised to bring her back a 
+rose from my journey!" The Beast dropped the paw it had clamped on the unhappy
+merchant.
+   "I shall spare your life, but on one condition, that you bring me your 
+daughter!" The terror-stricken merchant, faced with certain death if he did 
+not obey, promised that he would do so. When he reached home in tears, his 
+three daughters ran to greet him. After he had told them of his dreadful 
+adventure, Beauty put his mind at rest immediately.
+   "Dear father, I'd do anything for you! Don't worry, you'll be able to keep 
+your promise and save your life! Take me to the castle. I'll stay there in 
+your place!" The merchant hugged his daughter.
+   "I never did doubt your love for me. For the moment I can only thank you 
+for saving my life." So Beauty was led to the castle. The Beast, however, had 
+quite an unexpected greeting for the girl. Instead of menacing doom as it had 
+done with her father, it was surprisingly pleasant. 
+   In the beginning, Beauty was frightened of the Beast, and shuddered at the 
+sight of it. Then she found that, in spite of the monster's awful head, her 
+horror of it was gradually fading as time went by. She had one of the finest 
+rooms in the Castle, and sat for hours, embroidering in front of the fire. And
+the Beast would sit, for hours on end, only a short distance away, silently 
+gazing at her. Then it started to say a few kind words, till in the end, 
+Beauty was amazed to discover that she was actually enjoying its conversation.
+The days passed, and Beauty and the Beast became good friends. Then one day, 
+the Beast asked the girl to be his wife.                  .-~
+   Taken by surprise, Beauty did not know what to say. Marry such an ugly 
+monster? She would rather die! But she did not want to  hurt the feelings of 
+one who, after all, had been kind to her. And she remembered too that she owed
+it her own life as well as her father's.
+   "I really can't say yes," she began shakily. "I'd so much like to . . ." 
+The Beast interrupted her with an abrupt gesture.
+   "I quite understand! And I'm not offended by your refusal!" Life went on as
+usual, and nothing further was said. One day, the Beast presented Beauty with 
+a magnificent magic mirror. When Beauty peeped into it, she could see her 
+family, far away.
+   "You won't feel so lonely now," were the words that accompanied the gift. 
+Beauty stared for hours at her distant family. Then she began to feel worried.
+One day, the Beast found her weeping beside the magic mirror.
+   "What's wrong?" he asked, kindly as always.                        
+   "My father is gravely ill and close to dying! Oh, how I wish I could see 
+him again, before it's too late!" But the Beast only shook its head.
+   "No! You will never leave this castle!" And off it stalked in a rage. 
+However, a little later, it returned and spoke solemnly to the girl._
+   "If you swear that you will return here in seven days time, I'll let you go
+and visit your father!" Beauty threw herself at the Beast's feet in delight.
+   "I swear! I swear I will! How kind you are! You've made a loving daughter 
+so happy!" In reality, the merchant had fallen ill from a broken heart at 
+knowing his daughter was being kept prisoner. When he embraced her again, he 
+was soon on the road to recovery. Beauty stayed beside him for hours on end, 
+describing her life at the Castle, and explaining that the Beast was really 
+good and kind. The days flashed past, and at last the merchant was able to 
+leave his bed. He was completely well again. Beauty was happy at last. 
+However, she had failed to notice that seven days had gone by.
+   Then one night she woke from a terrible nightmare. She had dreamt that the 
+Beast was dying and calling for her, twisting in agony. 
+   "Come back! Come back to me!" it was pleading. The solem  promise she had 
+made drove her to leave home immediately. 
+   "Hurry! Hurry, good horse!" she said, whipping her steed onwards towards 
+the castle, afraid that she might arrive too late. She rushed up the stairs, 
+calling, but there was no reply. Her heart in her mouth, Beauty ran into the 
+garden and there crouched the Beast, its eyes shut, as though dead. Beauty 
+threw herself at it and hugged it tightly.
+   "Don't die! Don't die! I'll marry you . . ." At these words, a miracle took
+place. The Beast's ugly snout turned magically into the face of a handsome 
+young man.
+    "How I've been longing for this moment!" he said. "I was suffering in 
+silence, and couldn't tell my frightful secret. An evil witch turned me into a
+monster and only the love of a maiden willing to accept me as I was, could 
+transform me back into my real self. My dearest! I'll be so happy if you'll 
+marry me . . ."
+   The wedding took place shortly after and, from that day on, the young 
+Prince would have nothing but roses in his gardens. And that's why, to this 
+day, the castle is known as the Castle of the Rose.
+THE BEGGAR'S OPERA by JOHN GAY
+Transcribed by Richard Bear <RBEAR@OREGON.UOREGON.EDU>
+at the University of Oregon, August 1992.
+Originally published 1728, this is based on the printed 
+text of 1765. Copyrighted annotations by Mr. Bear have been
+removed (please contact him if you are interested.)
+This text is in the PUBLIC DOMAIN, posted to Wiretap January 1994.
+===================================================================
+                                   T H E
+                               B E G G A R' S
+                                 O P E R A.
+                             ------------------
+                             Written by Mr. GAY
+                             ------------------
+                        Nos haec novimus esse nihil.
+                                   Mart.
+                             DRAMATIS PERSONAE
+                             -----------------
+                                    MEN
+Mr. Peachum.
+Lockit.
+Macheath.
+Filch.
+Jemmy Twitcher,               }
+Crook-Finger'd Jack,          }
+Wat Dreary,                   }
+Robin of Bagshot,             }
+Nimming Ned,                  }   Macheath's Gang.
+Harry Padington,              }
+Mat of the Mint,              }
+Ben Budge,                    }
+Beggar.
+Player.
+                                   WOMEN
+Mrs. Peachum.
+Polly Peachum.
+Lucy Lockit.
+Diana Trapes.
+Mrs. Coaxer,                  }
+Dolly Trull,                  }
+Mrs. Vixen,                   }
+Betty Doxy,                   }   Women of the Town.
+Jenny Diver,                  }
+Mrs. Slammekin,               }
+Sukey Tawdrey,                }
+Molly Brazen,                 }
+                               INTRODUCTION.
+                               BEGGAR, PLAYER
+                                  Beggar.
+If Poverty be a Title to Poetry, I am sure nobody can dispute mine. I own 
+myself of the Company of Beggars; and I make one at their Weekly Festivals 
+at St. Giles's. I have a small Yearly Salary for my Catches, and am 
+welcome to a Dinner there whenever I please, which is more than most Poets 
+can say. 
+  PLAYER. As we live by the Muses, it is but a Gratitude in us to encourage 
+Poetical Merit wherever we find it. The Muses, contrary to all other 
+Ladies, pay no Distinction to Dress, and never partially mistake the 
+Pertness of Embroidery for Wit, nor the Modesty of Want for Dulness. Be the 
+Author who he will, we push his Play as far as it will go. So (though you 
+are in Want) I wish you success heartily.
+  BEGGAR. This piece I own was originally writ for the celebrating the 
+Marriage of James Chanter and Moll Lay, two most excellent Ballad-Singers. 
+I have introduced the Similes that are in all your celebrated Operas; The 
+Swallow, the Moth, the Bee, the Ship, the Flower, &c. Besides, I have a 
+Prison-Scene, which the Ladies always reckon charmingly pathetick. As to 
+the Parts, I have observed such a nice Impartiality to our two Ladies that 
+it is impossible for either of them to take Offence. I hope I may be 
+forgiven, that I have not made my Opera throughout unnatural, like those in 
+vogue; for I have no Recitative; excepting this, as I have consented to 
+have neither Prologue nor Epilogue, it must be allowed an Opera in all its 
+Forms. The Piece indeed hath been heretofore frequently represented by 
+ourselves in our Great Room at St. Giles's, so that I cannot too often 
+acknowledge your Charity in bringing it now on the Stage.
+  PLAYER. But now I see it is time for us to withdraw; the Actors are 
+preparing to begin. Play away the Overture.
+                                                                   [Exeunt.
+                                    THE
+                         B E G G A R'S   O P E R A

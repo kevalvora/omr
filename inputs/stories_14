@@ -1,0 +1,1000 @@
+     With that, Skulta left, and Richard was left alone.  Mortified,
+Richard climbed out the lavatory window and ran home.
+     That night, Richard grew restless. Searching for an escape from
+his troubles, Richard took a walk through Plimpton park.  It was a hot
+and toasty night, and Richard soon had to stop for a rest beside a
+phone pole.  He sat down beside it, and was about to fall asleep, when
+he heard a voice from above...
+     "Hello what!" said the voice, as the dark figure descended from
+the pole.  "I'm Bollix.  You can just call me Bollix, if you want.
+What can I do you for?"
+     "Well, mister, I'm nothing.  Nobody likes me anymore.
+And...and... today in the bathroom, the Skulta peed on me and got me
+smelly and sticky!"
+     "Well it serves you right!  You're boring... umm.. no.  I didn't
+say that.  What I meant to say is that you could avoid all this
+alienation and crap.  What you need, my small friend, is a gimmick!"
+     A look of interest arose on Richard's face, as Bollix revealed his
+plan to give Richard a new image... a gimmick.
+     "What you've got to do is get a gimmick.  Something unique.
+Something special.  You know... a gimmick.  Like the professional
+wrestlers.  But you know, they have lame gimmicks what.  You need
+something impressive.  You can be... umm... let's see... you can be...
+BAGEL MAN!  That's it!  It's your new image!  Your gimmick!  Trust me,
+if you follow my instructions, you'll have the babes all over you and
+the Skulta trembling at your feet!"
+     Bollix proceeded to instruct Richard on the details of his new
+image, and by the next morning, when he came to school, Richard was no
+longer the young innocent boy he was the day before... he was no longer
+Richard... he was... Bagel-Man!
+     Part II coming soon!
+_______________________________________________________________________________
+(C) 1991 by Janitor Brand & The Eleventh Hour
+All Rights Curiously Examined And Contemplated
+  "The Purple Duck Flies South at Noon"
+Call these fine boards:
+	The Janitor's Closet  - (617) 69X-XXXX
+        The Works             - (617) 861-8976
+:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:
+:   Earth's Dreamlands    :  Info on: RPG's,  :(313)558-5024 : area code    :
+:RPGNet World HQ & Archive: Drugs, Industrial :(313)558-5517 : changes to   :
+:  1000's of text files   :  music, Fiction,  :InterNet      : (810) after  :
+:   No Elite / No porn    :   HomeBrew Beer.  :rpgnet@aol.com: Dec 1,1993   :
+:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:
+	Below you will find the rules that my friends and I have come up 
+with for Battletech.  These rules were meant to augment the existing 
+rules, not replace them.  _The Battletech Compendium_ is the ruleook 
+referenced throughout this text and is considered necessary for these rules 
+to be used fully.
+	One of the basic assumptions throughout this entire text is that 
+the Clans do not exist.  Granted, some of the technology presented in here 
+is Clan in nature or capability, but this system was started before the 
+Clans were presented.  The history of the Battletech Universe has also been 
+ignored completely.  This is evident with the huge variety of weapons and 
+the fact that (for example) LB-X autocannons weigh more than standard 
+autocannons.  For any system that is not specifically modifed or covered in 
+these rules assume that the standard rules for "Inner Sphere" systems take 
+precedence.
+	The 2x engine rules were created some time ago, exact date 
+forgotten.  These rules are of my design and should be considered 
+copyrighted.  The Observer rules were created based upon ideas found in the 
+Rec.Games.Mecha archives.  Credit is given at the end.
+	The Internal Structure and Armor rules were developed recently and 
+are pretty much an adjustment to existing rules plus added systems.  If 
+anything appears to have come from FASA then it probably did.
+	The Weapons list is a compilation of the existing weapons plus 
+those developed by myself, my friends, and others.  The alternate 
+ammunitions were an outgrowth of rules presented in the FASA product 
+_Unbound_ and material found in the aforementioned archives.  
+	The Infantry Rules were developed to make all types of infantry a 
+viable selection.  These rules were also intened to make them a little more 
+capable of playing a role on the battlefield.
+	The Credit Section is where I give credit to those who inspired me 
+to put something resembling their work into my compilation.  I tried to 
+give credit where it is due, but if you feel slighted I apologize.  One 
+source of inspiration and information tht is not credited there is FASA.  
+They deserve the credit for anything that resembles material from the 
+rulebook and the product _Unbound_.
+	If you have any questions, comments, or suggestions feel free to 
+send Email to MURRAYMD@UDAVXB.OCA.UDAYTON.EDU or 
+	Matt Murray
+	144 Medford Apt E
+	Dayton OH 45410
+				ENJOY!!!
+	T W O    E N G I N E    A N D    T W O    C O C K P I T    
+	The 2xeng and 2xeng2xcockpit mech rules will require that you make 
+new mech sheets for these monsters.  With a little bit of work, clear tape, 
+and photocopies you can cut up, you can make the sheets no problem.  I'll 
+give you what location has how many crits of each thing.
+	2 ENGINE MECHS
+	The two engine mech is simply a battlemech that has such a high 
+speed that the weight or power requirements are so high that two engines 
+are requird as opposed to one.  For a mech to have two engines, it must 
+pass one of two requirements.  If it doesn't, then the mech will simply use 
+one engine.  NOTE: The weight requirements below are based upon standard 
+engine weights and are regardless of the possibility of the engines being 
+ST or XL engines. 
+	For the design of your mech, replace the rules for "Determine 
+engine weight" with this list:
+	1) Detremine the speed of the mech
+	2) Determine the Engine rating
+	3) Determine the Engine weight
+	4) Check to see if steps 2 or 3 qualify the mech for 2x engine 
+	   status.  If the mech does qualify, follow ths steps:
+		A) If the last digit of the Engine rating is a 5, add 5 to 
+		   the engine rating making it an even number.
+		B) Divide the engine rating by 2 creating the engine 
+		   ratings of the 2 smaller engines to be used.
+		C) Use the smaller engine ratings to determine the engine 
+		   weights of the two smaller engines.  
+		D) Modify the weights of the engines appropriately if you 
+		   are going to use ST or XL engines.
+		E) Add the weights of the engines together to determine the 
+		   final weight of th engines. 
+	(Note: Gyro weight is based upon the engine rating from line 4A.)
+		  
+REQUIREMENTS:
+If the mech is 55-100 tons, then the requirements are:
+	1) The required engine rating is above 400
+			or
+	2) The weight of the engine required is 75% or greater than the 
+	   weight of the mech.
+If the mech is 5-50 tons, then the requirements are:
+	1) The required engine rating is above 400
+			or
+	2) The weight of the engine required is 50% or greater than the
+	   weight of the mech.
+	Now that the rules for what mechs are allowed to have 2 engines 
+have been established, next are the special rules pertaining to them.
+	1) Since the mech has 2 fusion engines, it also has 20 heat sinks.
+		A) They can be made double heat sinks.
+		B) The number of HS that can be put on to an engine w/out 
+		   being represented on the critical hit table is based 
+		   upon the engine rating of each engine, not the combined 
+		   engine ratings. 
+		C) If the engine heat sinks are double HS, then divide the 
+		   number of heat sinks that can be put on an engine by the 
+		   number of crits each double heat sink takes up. (This 
+		   rule is put in so that double heat sinks are not common 
+		   and do not unbalance the game since heat is the 
+		   restraining factor in this game.  This rule is also 
+		   under the assumption that the rules concerning mixing 
+		   standard and double heat sinks are changed.  If you want 
+		   to, you can mount double and standard HS on a mech.  All 
+		   of the heat sinks from the engines must be the same 
+		   type.  All 20 must be either double or standard, not 
+		   half&half.  If you keep the original rule saying ALL 
+		   heat sinks must be the same type, then you may also 
+		   consider possibly ignore this subrule completely.
+	2) A damage track is kept for each engine.  It is possible for a 2x 
+	   engine mech to recieve 4 engine hits, 2 per engine.  When one of 
+	   the two engines receives 3 hits, it is destroyed and the move 
+	   rate of the mech is halved, rounding down.  The destroyed engine 
+	   also stops producing heat due to damage or moving.  A 2x engine 
+	   mech is considered destroyed when both engines are destroyed, 
+	   i.e.: When each engine has received 3 engine hits.  Any HS 
+	   mounted on the engine and not represented on the crit. hit table 
+	   for the mech are also destroyed. 
+	3) When the internal structure for a side torso has been completely 
+	   destroyed, that sides engine is also counted as destroyed with the 
+	   appropriate effects for losing one engine as outlined in rule 2.
+	4) The Critical Hit table for a 2x engined mech is different from 
+	   that you would find on a standard one.
+		A) Change the center torso by changing all engine slots 
+		   (11,12,13,22,23,24) into empty slots that can mount
+		   equipment.
+		B) Change both of the side torsos to this slot 
+		   configuration:
+			Standard	ST Engines	XL Engines
+			1. Engine	1. Engine	1. Engine
+			2. Engine	2. Engine	2. Engine
+			3. Engine	3. Engine	3. Engine
+			4. ______	4. ______	4. Engine
+			5. ______	5. ______	5. Engine
+			6. ______	6. ______	6. Engine
+			1. ______	1. Engine	1. Engine
+			2. Engine	2. Engine	2. Engine
+			3. Engine	3. Engine	3. Engine
+			4. Engine	4. Engine	4. Engine
+			5. ______	5. Engine	5. Engine
+			6. ______	6. Engine	6. Engine
+	(As you can see, you have a high to 100% chance of getting an 
+	 engine hit with the more advanced engines.)
+	5) If the engines are going to use ST or XL technology, both must 
+	   be of the same type.
+	6) The heat produced from movement is doubled with 2x engine mechs. 
+	   Walking heat is 2 while running produces 4 heat.
+        7) As before, regardless of technology level of the engine, each 
+	   engine requires only 3 engine hits to be destroyed.
+	DESIGN NOTES ON 2X ENGINE MECHS:  These rules were written long 
+before the clans came into the picture.  They were even written before the 
+rules for XL engines were published.  From the time we came out with the 
+rules for 2x engine mechs, we have experimented with rules for 2x engine 
+tanks (we never goofed with aerospace fighters, but that would be another 
+logical growth of the rules.)  The rules we developed never did seem 
+balanced and seemed to require a major rewrite of the tank rules, which we 
+did for some areas.  If you desire to have 2x engine tanks, you may want to 
+take a long hard look at them.  Realize that the limiting factors for 2x 
+engine mechs are: loss of internal space, loss of armor protection for the 
+engines due to sitting in the side torsos, ease of getting engine hits due to 
+doubled number of engine crits, and increased heat for movement.  All of these 
+limiting factors are not available for tanks based on the available rules.  
+There are no damage locations where tank engines are.  There are no 
+internal crit slots for tanks.  Tanks don't have to worry about movement 
+heat.  As you can see, tanks were made overly simple so that they were easy 
+to play and integrate.  Due to these simplifications, you can't easily 
+integrate 2x engine rules for them.  On further investigation, you'll see 
+that the same problems exist for aerospace fighters, conventional fighters, 
+and the other vehicles.  If you are going to put rules for 2x engines in 
+for other vehicles, you will have to rebuild a lot of the game.
+	The Clans would probably never have 2x engine mechs.  Their mechs 
+tend to point to a huge standardization policy throughout the clans and 
+would be very slow to change to 2x engines upon discovering 2x engine 
+mechs.  Even with those points of logic out of the way, it should be 
+apparent enough that the clans are nasty enough as they are and need no 
+further modification.  You will find that 2x engine mechs come only half 
+way to meeting the clans on even grounds.  *I* wouldn't want a 100 ton clan 
+mech with 2x engines stomping on my face and ripping my lipps off!  
+	SPECIAL TECHNOLOGY  (ST)  ENGINES
+	ST engines were developed primarily to incorporate the weight 
+saving capabilities of XL engines without the huge space requirements.  ST 
+engines are best described as being halway between standard and XL engines. 
+ST engines are best used on one engine mechs that need extra tonnage for 
+ballistic weapons and extra space for the weapons themselves.  For 2x 
+engine mechs, internal space becomes critically short when both engines are 
+made XL, making the use of ST engines predominant.  
+	1) ST engines weigh .75 the weight of a standard engine, this in 
+	   comparison to XL engines that weigh .5 the weight of a standard
+	   engine.
+	2) ST engines require 3 extra crit slots on a critical hit table.  
+	   These crit slots have already been described for 2x engine 
+	   mechs.  For one engine mechs, ST engines require one extra slot 
+	   in each of the 3 torsos.
+	3) 3 engine hits are required to destroy an ST engine, regardless 
+	   if they are in the side or center torsos. 
+	4) For figuring the costs of an ST engine, as per p. 128 of _The 
+	   Battletech Compendium_, use the formula of:
+		(10,000 x rating x tonnage) / 75
+	NOTES ON ST ENGINES:  As you can see, ST engines are halfway XL 
+engines.  That's what they are intended to be.  When I first came up with 
+ST engines, I had trouble convincing my friends the need of ST engines.  
+They are truly put in for 2x engine mechs, I have never seen their use on 
+one engine mechs.  Use them as you please.
+	The Clans would probably never use ST engines.  They would more 
+then likely use XL engines exclusively.
+	Historically, you could say that ST engines are a stepping stone to 
+XL engines, with their use relegated primarily to 2x engine mechs.  You 
+could also say that Peripheral houses and governments developed them as 
+their best effort to reach XL technology.
+	2X COCKPIT and 2X ENGINE 2X COCKPIT MECHS
+	2x cockpit mechs are a natural outgrowth of mech designs that had 2 
+seats in a mech cockpit where one seat was for the mech pilot and the 
+other seat was for a commander/observer/nobody useful.  There are 3 types 
+of 2x cockpit mechs: one engine 2x cockpit, 2x engine 2x cockpit Alpha, and 
+2x engine 2x cockpit Beta.  After the descriptions of the three type of 2x 
+cockpit mechs rules will be given for their use.
+NOTE:  When examples of the internal structure are shown, there will be two 
+empty critical slots with astricks.  These are the slots for "extra" 
+sensors to be placed in.  They will be explained later in the rules.
+	2X COCKPIT MECHS:
+	These designs are achieved through the removal of the cockpit from 
+the head and replacing it with a cockpit in each side torso.
+	1) The critical hit table is modified by replacing the head with 
+	   six empty crit slots.  This effectively turns the head from a 
+ 	   cockpit center into a weapons platform.  This platform can have a 
+ 	   turret like a ground vehicle where the turret mechanism weighs 
+	   ten percent of the weapons mounted (round up to the nearest half 
+	   ton).  When the armor has been breached and internals have been 
+	   scored, roll for turret lock where the turret locks on a roll of 
+	   1-3.  If the turret locks, it locks facing the hexside that it 
+	   was firing into that turn.
+	2) The side torsos are modified as such:
+		LEFT SIDE TORSO			RIGHT SIDE TORSO
+		1) Life Support			1) Life Support
+		2) Sensors			2) Sensors
+	1	3) Cockpit		1	3) Cockpit
+		4) _______			4) _______
+		5) _______*			5) _______*
+		6) Life Support			6) Life Support
+		1) _______			1) _______
+		2) _______			2) _______
+	2	3) _______		2	3) _______
+		4) _______			4) _______
+		5) _______			5) _______
+		6) _______			6) _______
+	3) The pilot can be in one side or the other as long as which side 
+	   has the pilot and which side has the gunner is marked on the 
+	   sheet before the game begins. 
+	2X ENGINE 2X COCKPIT MECHS ALPHA
+	These types of mechs are achieved through the addition of a cockpit 
+to the center torso.  Traditionally the gunner would be positioned in the 
+torso and the pilot would be in the head.  This arrangement can be swapped 
+around with little problem, but it would seem more logical to have the 
+pilot in the head.
+	1) The head cannot be mounted on a turret.
+	2) The head and Center torso critical hit tables would look like 
+this:
+		Center torso		Head
+		1) _______		1) Life Support
+		2) _______		2) _______*
+	1	3) _______		3) Cockpit
+		4) Gyro			4) _______
+		5) Gyro			5) _______*
+		6) Gyro			6) Life Support
+		1) Life Support
+		2) Sensors
+	2	3) Cockpit
+		4) Gyro
+		5) Sensors
+		6) Life Support
+	3) To put the gunner in the head, move the sensors from the center 
+torso and put them in the #2 and #5 slots in the head.
+	2X ENGINE 2X COCKPIT MECHS BETA
+	These types of mechs are achieved through putting both of the 
+cockpits in the center torso.  The advantage of this arrangement is that the 
+head can act as a weapons platform like the rules above state.  The primary 
+disadvantage is that whenever the center torso is hit on a 2, both pilots 
+take damage and roll for consciousness.
+	1) The head can act as a turreted weapons platform as discussed 
+above in the rules for 2x cockpit mechs.
+	2) The center torso is modified as such:
+		CENTER TORSO
+		1) Life Support
+		2) Gyro
+	1	3) Cockpit
+		4) Gyro
+		5) Gyro
+		6) Life Support
+		1) Life Support
+		2) Sensors
+	2	3) Cockpit
+		4) Gyro
+		5) Sensors
+		6) Life Support
+	3) The pilot is in the upper cockpit while the gunner is in the 
+lower cockpit. Notice also that there are no provisions for there to be 
+backup sensors on this type of mech.
+	GENERAL RULES COVERING 2X COCKPIT MECHS
+	1) There are 2 cockpits on 2x cockpit mechs.  One is for a pilot 
+where the other one is for a gunner.  These two pilots work together to 
+pilot and fight the mech.  The cumulative effect of these two working 
+together and being able to concentrate on their jobs is that the piloting and 
+gunnery skills are better.  To reflect these advantages, a mech with two 
+cockpits has a -1 bonus on its to hit and piloting target numbers.
+	2) The pilot controls the piloting functions of the mech, but he 
+can also do weapons firing.  If the gunner should be killed, the pilot can 
+take over weapons fire.  The turn after the gunner is killed, the mech can 
+not fire weapons but can still move.  This represents the pilot realizing the 
+loss of the gunner and switching over gunnery systems to his control.  
+After this turn of lost weapons fire, the pilot operates the mech without 
+the piloting skill bonus and has a +1 penalty to weapons fire.
+	3) The gunner controls the firing functions of the mech, but he can 
+also pilot the mech.  If the pilot should be killed, the gunner can take 
+over moving the mech.  The turn after the pilot is killed, the mech can not 
+move but may continue to fire weapons.  This represents the gunner 
+realizing the loss of the pilot and switching over movement systems to his 
+control.  After this turn of lost movement, the gunner operates the mech 
+without the gunnery bonus and has a +1 penalty to piloting skill.
+	4) The bonuses and penalties mentioned above are treated just like 
+any of the bonuses and penalties found in the rules and can be made 
+cumulative with any other modifiers.  If the players are using the optional 
+rules for DNI and VRPP piloting enhancements, they can also be used with 2x 
+cockpit mechs.  (The two pilots had better know each other *VERY* well to 
+be allowed to use DNI.)
+	5) If both the pilot and the gunner are killed, then the mech is 
+considered destroyed.     
+	6) The Sensors that were deleted from one of the cockpits can be 
+left in to serve as backup sensors.  Either one or both of the deleted 
+sensors can be left in.  As long as there are two undestroyed Sensors 
+critical hit locations remaining on the mech, there is no effect from 
+Sensors hits.
+	7) When a 2 is rolled onto a torso hit location that has a cockpit 
+in it will also damage the pilot/gunner like a head hit. 
+	8) When a 2x cockpit mech falls, the pilot must roll two piloting 
+skill rolls to determine if both he and the gunner take damage.  Roll each 
+one seperately.
+	9) When ammunition explodes, each pilot takes one point of damage 
+as oppossed to both taking two points.  If one of the pilots is dead, then 
+the other takes 2 points of damage.
+	10) Life support hits are kept for each cockpit and are seperate 
+from each other.  It is possible for one pilot to take hits from excess 
+heat and the other to be perfectly fine.
+	11) Conciousness rolls for each pilot are done seperately and are 
+independant of each other.  It is possible for one pilot to be unconcious 
+while the other is not.  If this should happen, treat the unconcious pilot 
+to be "temporarely" dead.  Refer to rules 2 & 3 for switchover procedure.  
+When the unconcious pilot regains conciousness, he may resume his functions 
+at the beginning of the next turn. 
+	Design notes on 2x cockpit mechs:  2x cockpit mechs are just about 
+the epitome of Battlemech technology when you combine 2x engine 2x cockpit 
+rules with ST/XL engine rules.  Throw in any other sundry advanced 
+technologies you wish and you will have true war machines.
+	These rules were developed well before the Clans came out.  Based 
+on the reading I've done, I don't think the clans would go for this type of 
+mechs.  Their honor code would seem to dictate that they fight "without 
+someone else's help."  Anyway, would you want the Clans to be any more 
+powerful?
+	C O C K P I T   S E C O N D   S E A T S / O B S E R V E R S 
+	Normally the cockpit of a mech has a second seat for a passenger 
+but that seat has no special function.  These rules are designed to add 
+special seatings for specialty observers.  Note that the people in these 
+seats *CAN NOT* control the mech that they are in in any special manner or 
+way.  (Exception:  Mech Gunners)  They are only observers.
+	If the critical hit location that the second chair takes up is 
+destroyed then the passenger is killed and cannot perform their function.  
+If the pilot's critical hit location is destroyed then the mech is 
+considered destroyed for one cockpit mechs.  2x cockpit mechs are different 
+in that the cockpit up in the head (normally the pilot's cockpit) is the 
+only cockpit that can have a second chair.  Destruction of the head still 
+results in the Observers death as well as the pilot/gunner, but the 2x 
+cockpit mech still functions as per the 2x cockpit rules.  (Exception:  
+Mech Gunners:  The mech is not considered destroyed if the head is still 
+intact and the pilot is unconcious/dead then the gunner can still fire the 
+mech's weapons.  Mech gunners can not be used in 2x cockpit mechs.)
+	Artillery Spotter:  The Artillery Spotter is a trained professional 
+in the coordination of off-board artillery fire.  Their seat has range 
+finding and communication equipment built in to assist them.
+	ADVANTAGES:  The AS mech can act as an oberver for off board 
+artillery fire.  Any off board artillery fire using this mech as the 
+observer gets a -2 to hit bonus for Observing unit Gunnery Skill as per 
+p.49 of _The Battletech Compendium_.
+	WEIGHT:  The Artillery Spotter seat weighs 1.5 tons and takes 
+up 1 critical location in the head.
+	Company Commander:  The company commander can be in a command mech 
+that has a trusted pilot piloting his mech while he pays attention to the 
+battle.  His attention to the battle plus his training gives his company a 
+special advantage over those that do not have a dedicated command mech.
+	ADVANTAGES:  The Command Mech and the 11 other mechs designated as 
+being in the comapany get a special and seperate Initiative Roll.  They 
+roll 2D6 for their Initiative instead of the regular 1D6.
+	DISADVANTAGES/REQUIREMENTS:  For the Company Commander to be able 
+to do his/her job the command mech must be equipped with 2 C^3 Masters and 
+the rest of the company must be set up with the C^3 system as per the rules 
+in _The Battletech Compendium_ p.118.  This communication and coordination 
+still continues even if LOS between company mates is blocked or there is a 
+Guardian operating in the LOS, even if the C^3 does not work.
+	WEIGHT:  The Commander's seat weighs 1 ton and takes up 1 critical 
+spot in the head.
+	Forward Observer:  The Forward Observer is a person trained in the 
+coordination and directin of all indirect fire.  S/he can assist in the firing 
+of normal artillery fire and indirect missile fire.
+	ADVANTAGES:  The FO mech can act as an observer for a unit firing 
+LRM or BRM missiles indirectly.  For this fire there is no +1 automatic 
+penalty to the to hit and the FO mech can make attacks as normal.  The FO 
+mech can also act as a spotter for off board artillery fire, giving a -1 to 
+hit bonus for Observing unit Gunnery Skill as per p.49 of _The Battletech 
+Compendium_.
+	WEIGHT:  The Forward Observer seat weighs 1 tons and 1 critical 
+spot in the head.
+	Mech Gunner:  The Mech Gunner is a Mechwarrior in a specially 
+designed chair that allows the gunner to fire the mech's weapons while the 
+normal pilot concentrates on piloting the mech.  While this system has the 
+same advantages as 2 cockpits, it still has the inherent disadvantage that 
+destroying the head will knock out the mech.
+	ADVANTAGES:  The mech with a mech gunner can fire weapons and pilot 
+better.  Any Piloting Skill rolls and weapons fire is done at a -1 bonus, 
+cumulative with other bonuses and penalties.
+	DISADVANTAGES:  The mech gunner in this system cannot be combined 
+with the 2 cockpit system, it is either/or.  If the gunner gets knocked out 
+via unconciousness or critical hit then the mech cannot fire weapons.  If 
+the pilot is knocked out in a similar manner then the mech cannot move.  If 
+the head is destroyed then the mech is counted as destroyed.  Otherwise 
+refer to rules 8, 9, and the first part of 11 in the 2 cockpit rules for 
+assitional information.  Mech Gunner chairs can not be installed on 2x 
+cockpit mechs.
+	WEIGHT:  The Mech Gunner seat weighs 2 tons and takes up 1 critical 
+hit location in the head.
+		G Y R O   D E S I G N   C H A N G E S 
+	Gyros can be rounded to the nearest half or quarter ton, depending 
+on what your are rounding nearest to in your design.
+	A L T E R N A T E  I N T E R N A L  S T R U C T U R E S
+				   and
+				A R M O R 	
+	There are several different types of internal structures, armors, 
+and defensive systems that can be used by a mech.  Each are detailed below.
+	Endo Steel:  This is the same as presented in the books with the 
+exception of changing the number of critical hit locations that are taken 
+up.  This is done to make its use more viable.
+	TONS:  Half Standard
+	Slots:  10
+	Nitivir Composite:  This extra strong internal structure is made 
+from a laticed composite of Nickel, Titanium, Vanadium, Iridium, and other 
+standard metals.  This combonation is heavier and bulkier than standard 
+internal structure but is 25% more resilient to damage and allows the mech 
+to mount heavier armor.
+	The mech with Nitivir Composite multiplies the amount of internal 
+points for each of the internal structure areas by 1.25, round .5 up.  This 
+new, higher number is the amount of internal structure each area has and is 
+used as the base for the max number of armor points that the area can mount.  
+If the number of internal structure or armor points in a location exceeds the 
+number of circles that the mech sheet has simply write the excess points next 
+to the appropriate location.
+	TONS:  Standard
+	Slots:  10
+	Standard Internal Structure:  The standard internal structure is 
+not changed at all from the rules.  It is though used as the basis of 
+comparison for the other internal structures.
+	---	---	---	---	---	---	---	---
+	The below armor types are "base" armors and are not compatible with 
+each other.  See the defensive systems below to see which are compatible 
+with what.
+	Ferro-Fibrous Armor:  This armor is like that presented in the 
+rules with changes to make its use more viable.  The Armor Value is 
+multiplied by 1.2 instead of 1.12.  (Where did they get 1.12?)
+	TONS:  Standard
+	Slots:  10
+	Ceramo-Steel Armor:  This armor uses the natural heat resistive 
+properties of ceramic materials and meshes them within layers of standard 
+armor.  Ceramo-Steel armor comes in 2 ratings: Level 1 and Level 2. 
+	Level 1 Ceramo-Steel comes with a armor rating multiplier of 1.1 
+similar to Ferro-Fibrous and makes the mech invulnerable to energy weapons 
+target heat (From lasers, PPCs, etc).  Incindiery Target Heat from Infernos, 
+Flamers, and the like still affect the mech normally. 
+	Level 2 Ceramo-Steel Armor gets no armor multiplier but makes the 
+mech invulnerable to *any* target heat.
+	TONS: Standard (for both levels)
+	Slots:  10 (for both levels)
+	Reflective Armor:  This is an armor where the armor plates have been 
+covered in layers of polished metallic flakes.  The effect is to reduce the 
+effectiveness of lasers hitting the target.  The disadvantage is that the 
+overall armor resiliancy is reduced.
+	Reflective Armor reduces the effectiveness of incoming laser fire.  
+All laser fire that hits the mounting vehicle has 1 point of damage 
+subtracted from it.  EXAMPLE:  A large laser and 2 medium lasers are fired 
+at a tank with reflective armor.  The net damage is: 15 (8-1 + 5-1 + 5-1).
+	Reflective armor gives less protection than standard armor and  
+is expressed by multiplying the number of armor points available by .9.
+	Standard Armor:  This ablative armor is not changed from the game, 
+yet is used as the basis of comparison for other armors.
+	---	---	---	---	---	---	---	---
+	Below are defensive systems that can be designed into a mech in 
+addition to other armors/defensive systems.  Refer to the description of 
+each one to determine what can armors/systems can be used on the same 
+mech/vehicle.
+	Blue Shield Project:  This system is a concentrated particle field 
+dampener which dissipates incoming PPC fire.
+	Blue Shield way 3 tons and takes up one critical hit space in each 
+of the mech/vehicle's hit locations.  This system halves the damage of any 
+LPPC, PPC, HPPC, or variants.  A critical hit to a Blue Shield slot destroys 
+the entire shield.
+	Every time that Blue Shield is activated by PPC or HPPC hit roll 
+2D6.  On a roll of 2 when hit by a PPC or on a roll of 2 or 3 when hit by 
+HPPC the system overloads, destroying all of the shield critical locations 
+and inflicting 5 points of internal damage to all of the hit locations 
+except for the head which takes one point of internal damage.
+	Blue Shield is compatible with all of the armors and can be use 
+with the other defensive systems.
+	Chameleon System:  This is a system that evaluates the surrounding 
+terrain with electronic sensors and changes the color scheme of the armor 
+on the mech/vehicle.  It works best when the mounting vehicle is not moving 
+and in some type of obscuring terrain.
+	The Chameleon System weighs 3 tons and takes up one critical hit 
+space in each hit location.  This system adds a +1 to hit penalty to any 
+weapons fire against the mounting vehicle when the mounting vehicle is 
+standing still, walks/cruises or jumps.  It has no effect when the mounting 
+vehicle runs/flanks.  When the mounting vehicle is stationary for the turn 
+in a hex that provides terrain modifiers to hit (Woods, smoke, etc.) the 
+terrain to hit penalties against the mounting vehicle are used as the 
+effects of the Chameleon System.  EXAMPLE: Fred walks his mech that has 
+the Chameleon System and ends it in a heavy woods hex.  Since he walked it 
+any fire against his mech has a +1 to hit penalty in addition to any other 
+modifiers.  The next turn Fred does not move his mech, remaining in the 
+heavy woods hex.  The Chameleon System gives any fire against the mech a +4 
+to hit penalty (+2 for heavy woods hex that the Chameleon System emulates) 
+in addition to the +2 for the heavy woods his mech is in and any other 
+modifiers.
+	The Chameleon System is not very good at keeping the color 
+coordination if the mounting vehicle is running/flanking or jumping.  This 
+difficulty can overload the system with disasterous results.  At the end of 
+any turn that the mounting vehicle runs/flanks or jumps it must roll 2D6.  
+On a roll of 2, 3, or 4 the system has overloaded and explodes.  This destroys 
+all of the system's critical locations and inflicts 5 points of internal 
+damage to all of the hit locations except for the head which takes one point 
+of internal damage.
+	The Chameleon System can be used with all armors except Reflective 
+Armor and defensive systems except for Reactive Armor.
+	Reactive Armor:  This is bolted on armor that protects the mech 
+from slow incoming projectiles by using a shaped charge to blow them away.  
+It can be combined with any of the other types of armor.  The covering of 
+Reactive Armor requires internal support brackets which take up space.
+	Reactive Armor requires 1 critical hit space in each of the mech's/ 
+vehicle's locations and weighs equal to the mech's/vehicle's tonnage/20.  Any 
+missile and certain other weapon attacks made against the target with reactive 
+armor do half damage, round fractions up.  The armor location hit must have 
+armor points left for this to work or there will be no effect.  Any critical 
+hits to the Reactive Armor slots count as no effect.  VTOLs may not have 
+reactive armor.  Reactive Armor has no effect upon TSM or Inferno.
+	Every time that the mech is hit by missile fire and Reactive Armor 
+is used roll 2D6.  On a roll of a 2 the armor has blown back the missile at 
+a bad angle.  Apply the half damage to the location hit and then roll for 
+another hit location.  This second hit location takes an equal amount of 
+damage as the first.
+	Reactive Armor is compatible with all armor and defensive systems 
+except for Chameleon System.  Reactive Armor will not explode when set 
+afire.
+		W E A P O N S    T A B L E
+TYPE		DAMAGE	HEAT	TAR/HEAT  MIN.	RANGE	(S/M/L/Ex./Max.)	
+----		------	----	--------  ----	-----		
+S. Laser	3	1	-	  -	1/2/3/4/5
+M. Laser	5	3	.5	  -	1-3/4-6/7-9/10-12/13-15
+L. Laser	8	8	1	  -	1-5/6-10/11-15/16-20/21-25
+ER Small Laser	3	2	-	  -	1-2/3-4/5-6/7-8/9-10
+ER Medium Laser	5	5	.5	  -	1-5/6-10/11-15/16-20/21-25
+ER Large Laser	8	12	1	  -	1-7/8-14/15-21/22-28/29-35
+S. Pul. Laser	3	2	.5	  -	1/2/3/4/5
+M. Pul. Laser	6	4	1	  -	1-2/3-4/5-6/7-8/9-10
+L. Pul. Laser	9	10	2	  -	1-3/4-6/7-9/10-12/13-15
+Light PPC	5	5	1	  4	1-7/8-14/15-21/22-28/29-35
+PPC		10	10	2	  3	1-6/7-12/13-18/19-24/25-30
+Heavy PPC	15	15	3	  2	1-5/6-10/11-15/16-20/21-25
+ER Light PPC	5	7	1	  -	1-8/9-16/17-24/25-32/33-40
+ER PPC		10	15	2	  -	1-7/8-14/15-21/22-28/29-35
+ER Heavy PPC	15	23	3	  -	1-6/7-12/13-18/19-24/25-30
+Pul. LPPC	6	6	2	  3	1-5/6-10/11-15/16-20/21-25
+Pul. PPC	11	11	3	  2	1-4/5-8/9-12/13-15/16-18
+Pul. HPPC	16	16	4	  1	1-3/4-6/7-9/10-12/13-15
+Light EDC	5	3	-	  3	1-6/7-12/13-18/19-24/25-30
+EDC		10	7	1	  2	1-5/6-10/11-15/16-20/21-25
+Heavy EDC	15	10	2	  -	1-3/4-6/7-9/10-12/13-15
+Rail Gun	5	0	-	  4	1-9/10-18/19-27/28-36/37-45
+Rail Cannon	10	1	-	  3	1-8/9-16/17-24/25-32/33-40
+Gauss Rifle	15	2	-	  2	1-7/8-14/15-21/22-28/29-35
+Gauss Cannon	20	3	-	  1	1-6/7-12/13-18/19-24/25-30
+A/C 2		2	0	-	  4	1-8/9-16/17-24/25-32/33-40
+A/C 5		5	1	-	  3	1-6/7-12/13-18/19-24/25-30
+A/C 10		10	3	-	  -	1-5/6-10/11-15/16-20/21-25
+A/C 15		15	5	-	  -	1-4/5-8/9-12/13-15/16-18
+A/C 20		20	7	-	  -	1-3/4-6/7-9/10-12/13-15
+A/C 2  Ultra	2 (x2)	0	-	  4	1-8/9-16/17-24/25-32/33-40
+A/C 5  Ultra	5 (x2)	1(x2)	-	  3	1-6/7-12/13-18/19-24/25-30
+A/C 10 Ultra	10(x2)	3(x2)	-	  -	1-5/6-10/11-15/16-20/21-25
+A/C 15 Ultra	15(x2)	5(x2) 	-	  -	1-4/5-8/9-12/13-15/16-18
+A/C 20 Ultra	20(x2)	7(x2)	-	  -	1-3/4-6/7-9/10-12/13-15
+LB2-X		2	0	-	  4	1-8/9-16/17-24/25-32/33-40
+LB5-X		5	1	-	  3	1-6/7-12/13-18/19-24/25-30
+LB10-X		10	3	-	  -	1-5/6-10/11-15/16-20/21-25
+LB15-X		15	5	-	  -	1-4/5-8/9-12/13-15/16-18
+LB20-X		20	7	-	  -	1-3/4-6/7-9/10-12/13-15
+Machine Gun	2	0	-	  -	1/2/3/4/5
+Vulcan		4	1	-	  -	1-2/3-4/5-6/7-8/9-10
+Light Cannon	3	0	-	  -	1-3/4-6/7-9/10-12/13-15
+Flamer		2	3	3(I)	  -	1/2/3/4/5
+Flame Thrower	4	5	5(I)	  -	1-2/3-4/5-6/7-8/9-10
+Coolant Cannon	0	0	(-10)	  -	1/2/3/4/5
+BRM/6		1D6	2	-	  7	1-9/10-18/19-27/28-36/37-45
+BRM/12		2D6	4	-	  7	1-9/10-18/19-27/28-36/37-45
+BRM/18		3D6	6	-	  7	1-9/10-18/19-27/28-36/37-45
+BRM/24		4D6	8	-	  7	1-9/10-18/19-27/28-36/37-45
+BRM/30		5D6	10	-	  7	1-9/10-18/19-27/28-36/37-45
+LRM/5		1/hit	2	-	  6	1-7/8-14/15-21/22-28/29-35
+LRM/10		1/hit	4	-	  6	1-7/8-14/15-21/22-28/29-35
+LRM/15		1/hit	5	-	  6	1-7/8-14/15-21/22-28/29-35
+LRM/20		1/hit	6	-	  6	1-7/8-14/15-21/22-28/29-35
+TSM/1	    (5/2)/hit	2	-	  6	1-7/8-14/15-21/22-28/29-35
+TSM/2	    (5/2)/hit	4	-	  6	1-7/8-14/15-21/22-28/29-35
+TSM/3	    (5/2)/hit	5	-	  6	1-7/8-14/15-21/22-28/29-35
+TSM/4	    (5/2)/hit	6	-	  6	1-7/8-14/15-21/22-28/29-35
+MRM/3		1/hit	1	-	  3	1-5/6-10/11-15/16-20/21-25
+MRM/6		1/hit	2	-	  3	1-5/6-10/11-15/16-20/21-25
+MRM/9		1/hit	3	-	  3	1-5/6-10/11-15/16-20/21-25
+MRM/12		1/hit	4	-	  3	1-5/6-10/11-15/16-20/21-25
+SRM/2		2/hit	2	-	  -	1-3/4-6/7-9/10-12/13-15
+SRM/4		2/hit	3	-	  -	1-3/4-6/7-9/10-12/13-15
+SRM/6		2/hit	4	-	  -	1-3/4-6/7-9/10-12/13-15
+Streak SRM/2	2x2	2	-	  -	1-3/4-6/7-9/10-12/13-15
+Streak SRM/4	2x4	3	-	  -	1-3/4-6/7-9/10-12/13-15
+Streak SRM/6	2x6	4	-	  -	1-3/4-6/7-9/10-12/13-15
+CRM/1		3/hit	0	-	  -	1/2/3/4/5
+CRM/2		3/hit	1	-	  -	1/2/3/4/5
+CRM/3		3/hit	2	-	  -	1/2/3/4/5
+CRM/4		3/hit	3	-	  -	1/2/3/4/5
+Inferno/1	-	2	(5/2)(I)  -	1-7/8-14/15-21/22-28/29-35
+Inferno/2	-	1	5/hit(I)  -	1-3/4-6/7-9/10-12/13-15
+Inferno/3	-	1	3.3/ht(I) 3	1-5/6-10/11-15/16-20/21-25
+Inferno/5	-	2	2/hit(I)  6	1-7/8-14/15-21/22-28/29-35
+TAG Laser	-	0	-	  -	1-5/6-10/11-15/16-20/21-25
+NARC		-	0	-	  -	1-3/4-6/7-9/10-12/13-15
+AMS		-	1	-	  -	Special rules
+AML		-	3	-	  -	Refer to note
+PAML		-	1D6	-	  -	Refer to note
+AP pods		1D6-1	0	-	  -	0-1 Auto hit
+Hatchet		1/5 ton	0	-	  -	Close combat
+Sword		1/10ton 0	-	  -	Close combat
+Buzzsaw		2D6	3	-	  -	Close combat
+Arrow IV	20/10	10	-	  -	5 maps
+Bolt III	10/5	5	-	  -	5 maps
+Dart II		5/2	3	-	  -	5 maps
+Long Tom	20/10	20	-	  -	20 maps
+Sniper		10/5	10	-   	  -	14 maps
+Thumper		5/2	6	-	  -	12 maps
+Self Destruct	ER/15	A lot	ER/30	  -	0/1
+RANGE	   	TARGET #	DAMAGE and TARGET HEAT MODIFIERS
+-----		--------	--------------------------------
+Short (S)	   4		Normal Damage
+Medium (M)	   6		Normal Damage
+Long (L)	   8		Normal Damage
+Extreme (Ex.)	  10		Damage&Tar. Ht. x.75 (round .5+ up) 
+Maximum (Max.)	  12		Damage&Tar. Ht. x.5 (round .5 up)
+Note:  Missiles roll on the Extreme Range Missile Hit Chart and the Maximum 
+Range Missile Hit Chart when firing at those ranges.  BRM's roll D6-1 at 
+Extreme Range and D3 at Maximum Range.
+	MISSILE 	HIT		CHARTS
+		STANDARD  MISSILE  HIT  CHART
+		-----------------------------
+DIE ROLL		# of MISSILES
+		   2   3   4   5   6   9   10   12   15   20
+		-----------------------------------------------
+   2		   1   1   1   1   2   3    3    4    5    6
+   3		   1   1   2   2   2   3    3    4    5    6
+   4		   1   1   2   2   3   4    4    6    6    9
+   5		   1   2   2   3   3   5    6    6    9   12
+   6		   1   2   2   3   4   6    6    8    9   12
+   7	  	   1   2   3   3   4   6    6    8    9   12
+   8		   2   2   3   3   4   7    6    8    9   12
+   9		   2   3   3   4   5   8    8   10   12   16
+  10		   2   3   3   4   5   8    8   10   12   16
+  11		   2   3   4   5   6   9   10   12   15   20
+  12		   2   3   4   5   6   9   10   12   15   20
+		EXTREME  RANGE  MISSILE  HIT  CHART
+		-----------------------------------
+DIE ROLL		# of MISSILES
+		   2   3   4   5   6   9   10   12   15   20
+		-----------------------------------------------
+   2		   1   1   1   1   1   1    2    3    3    4
+   3		   1   1   1   1   1   2    2    3    4    5
+   4		   1   1   1   1   2   3    3    4    5    7
+   5		   1   1   2   2   2   4    4    5    6    8
+   6		   1   1   2   2   2   4    4    6    6    9
+   7	  	   1   1   2   2   3   5    5    6    7    9
+   8		   1   2   2   3   3   5    5    6    7   10
+   9		   1   2   3   3   4   6    6    7    8   11
+  10		   1   2   3   3   4   6    6    8    9   12
+  11		   2   3   3   4   5   7    7    9   11   14
+  12		   2   3   3   4   5   7    8    9   12   15
+		MAXIMUM  RANGE  MISSILE  HIT  CHART
+		-----------------------------------
+DIE ROLL		# of MISSILES
+		   2   3   4   5   6   9   10   12   15   20
+		-----------------------------------------------
+   2		   1   1   1   1   1   1    1    2    2    3
+   3		   1   1   1   1   1   1    2    2    3    3
+   4		   1   1   1   1   1   2    2    3    3    4
+   5		   1   1   1   2   2   2    3    3    4    6
+   6		   1   1   1   2   2   3    3    4    4    6
+   7	  	   1   1   2   2   2   3    3    4    5    6
+   8		   1   1   2   2   2   3    3    4    5    6
+   9		   1   2   2   2   2   4    4    5    6    8
+  10		   1   2   2   2   3   4    4    5    6    8
+  11		   1   2   2   2   3   4    5    6    7   10
+  12		   1   2   2   3   3   5    5    6    8   10
+	CONSTRUCTION		PARTICULARS
+WEAPON		TONS	SHOTS/TON	CRITICAL	NOTES
+------		----	---------	--------	-----
+S. Laser	.5	-		.5		#1
+M. Laser	1	-		1		#2
+L. Laser	4	-		2		#3
+ER Small Laser	.5	-		.5		#1
+ER Medium Laser 1	-		1		#2
+ER L. Laser	4	-		2		#3
+S. Pul. Laser	1	-		1		-2 to hit
+M. Pul. Laser	2	-		1		-2 to hit
+L. Pul. Laser	6	-		2		-2 to hit
+Light PPC	3	-		2		#4
+PPC		7	-		3		
+Heavy PPC	9	-		4		#4
+ER Light PPC	3	-		2		#4
+ER PPC		7	-		3		
+ER Heavy PPC	9	-		4		#4
+Pul. LPPC	4	-		2		-1 to hit
+Pul. PPC	8	-		3		-1 to hit
+Pul. HPPC	10	-		4		-1 to hit
+Light EDC	3.5	20		3		#5
+EDC		8	15		5		#5
+Heavy EDC	11	10		7		#5
+Rail Gun	9	20		4		Explodes for 10
+Rail Cannon	12	15		5		Explodes for 15
+Gauss Rifle	15	8		7		Explodes for 20
+Gauss Cannon	18	4		9		Explodes for 25
+A/C 2		3	45		1		#6
+A/C 5		4	20		4		#6
+A/C 10		10	10		6		#6
+A/C 15		12	7		8		
+A/C 20		14	5		10		
+A/C 2  Ultra	4	45		2		Double shot, #6
+A/C 5  Ultra	6	20		4		Double shot, #6
+A/C 10 Ultra	13	10		7		Double shot, #6
+A/C 15 Ultra	14.5	7		9		Double shot
+A/C 20 Ultra	16	5		11		Double shot
+LB2-X		3.5	45		1		Shotgun w/-1,#6,#7
+LB5-X		5	20		4		Shotgun w/-1,#6,#7
+LB10-X		11	10		7		Shotgun w/-1,#6,#7
+LB15-X		13	7		8.5		Shotgun w/-1,#1
+LB20-X		15	5		10		Shotgun w/-1
+Machine Gun	.5	200		.5		#1
+Vulcan		1	100		1		
+Light Cannon	1	100		1		
+Flamer		1	-		1		#8
+Flame Thrower	2	-		1		#8
+Coolant Cannon	1	2		N/A (1)		#9
+BRM/6		3	14		2		#10
+BRM/12		6	10		4		#10
+BRM/18		9	6		6		#10
+BRM/24		12	5		8		#10
+BRM/30		15	4		10		#10
+LRM/5		2	24		1		
+LRM/10		5	12		2		
+LRM/15		7	8		3		
+LRM/20		10	6		5		
+TSM/1		2	18		1		#11
+TSM/2		5	9		2		#11
+TSM/3		7	6		3		#11
+TSM/4		10	4		5		#11
+MRM/3		1	50		1		#12
+MRM/6		2	25		2		#12
+MRM/9		3	15		3		#12
+MRM/12		4	10		4		#12
+SRM/2		1	50		1		
+SRM/4		2	25		1		
+SRM/6		3	15		2		
+Streak SRM/2	1.5	50		1		
+Streak SRM/4	3	25		2		
+Streak SRM/6	4.5	15		2		
+CRM/1		.5	50		.5		#13
+CRM/2		1	25		1		#13
+CRM/3		1.5	15		1.5		#13
+CRM/4		2	10		2		#13
+Inferno/1	3	9		2		#14
+Inferno/2	2	25		2		#14
+Inferno/3	2	25		2		#14
+Inferno/5	3	12		2		#14
+TAG Laser	1	-		1		#15		
+NARC		3	6		2		#16
+Artemis		1	-		1		#17
+AMS		.5	50		1		#18
+AML		1.5	-		2		#18
+PAML		3	-		2		#18
+AP pods		.5	one shot	0		
+Hatchet		1/15 ton		1/15 ton
+Sword		1/15 ton		1/15 ton	-2 to hit
+Buzzsaw		4	-		2	Att roll 2 dest. saw
+Arrow IV	15	5		15		
+Bolt III	10	10		10
+Dart II		7	20		7
+Long Tom	30	5		30		
+Sniper		20	10		20		
+Thumper		15	20		15		
+Icewind		.5	one shot	0		#19
+C^3 Master	5	-		5
+C^3 Slave	1	-		1
+Beagle		1.5	-		2
+Guardian	1.5	-		2
+AAR		1per5	-		1per5 tons	#20
+GAR		1per5	-		1per5 tons	#21
+Target Comp.	1per5	-		1per5 tons	
+Infantry pods	4.5	1 Platoon	3		#22
+BAIP		2	1 Star		2		#23
+Self Destruct	1	Your mech!	1		#24
+	1) The .5 critical means that 2 of these weapons can be fitted into 
+one location.  If this location gets hit, both weapons are lost.  The two 
+weapons can be considered "banked" as per the rules below.  Any weapn that 
+takes up x.5 critical hit locations can fit another .5 critical hit 
+location item with one of its lines.  Example: An LBX-15 takes up 8.5 
+critical hit locations.  On one of the lines a small laser can share the 
+same line as one of the 9 LBX-15 lines.  Another example would be where a 
+CRM/3 has 1.5 tons of ammo assigned to it.  The first line would be 
+"CRM/3," the second would read "CRM/3 & 1/2 ton ammo," and the last line 
+would read "1 ton CRM/3 ammo." 	
+	2) The .5 Target Heat means that for every 2 medium lasers that 
+hit, the target receives 1 point of heat.  Refer to the Target Heat rules 
+found below.
+	3) The large laser and variants had their weights reduced to make 
+them more competitive with other weapons.  It seemed that the large laser 
+was not worth the weight of the weapon, therefore the weight is reduced on 
+this weapons list.
+	4) These two weapons seemed like natural outgrowthes of the 
+standard PPC.  The pulse PPC's also seemed like they should belong somehow. 
+Their only special rule is that there is a -1 to hit for them as opposed to 
+the -2 for the pulse lasers.
+	5) The Electrical Discharge Cannon is an energy weapon designed 
+around the principle of discharging huge amounts of electrical energy into 
+the target.  For the EDC to fire, a discharge coil is needed.  As this coil 
+burns out everytime the weapon fires, the weapon is designed to have a new 
+coil placed in the receptacle and the burned out one cycled out in a way 
+similar to an autocannon reload system.  Thus in the listing for the weapon 
+under ammunition the number gives how many coils.
+		A)  The "ammunition" for the EDC is not truly ammo.  When 
+	it is hit it does not explode.
+		B)  The EDC will cause collateral damage to units in water 
+	hexes.  If the EDC hits a target in or above (like hovercraft or 
+	LAM at 1 elevation) water the EDC does full damage to all targets 
+	in that hex.  Any units in or above water 1 hex away will receive 
+	full damage minus 5 points.  Any units in or above water 2 hexes 
+	away will receive full damage minus 10 points of damage.  Any unit 
+	3 or more hexes away is safe from collateral damage.
+	6)  The weights of the lighter autocannons were lowered because 
+they were perceived to be to heavy for them to be worth taking.  The 
+benefits of low heat and high range were not enough to counter the drawbacks
+of very high weight and possibility of ammo explosions.  It got to the point 
+that all A/C 2 through A/C 10 were replaced with different weapons due to 
+their attractiveness.  Therefore the weights of some of the A/C were 
+reduced.
+	7) The weights of the LBX autocannons were made higher than the 
+standard models to compensate for the fact that they were better than 
+standard autocannons.  Granted, these changes to the various autocannons 
+are not historical, but then again, who plays historically?
+	8) The Flamer and the Flame Thrower are modified to make them more 
+worth their weight.  In addition to doing their damage, these weapons incur 
+"incindiery" target heat upon their target.  The target heat from these 
+weapons will remain on the target for 3 turns.  Any additional target 
+heat beyond 10 points carries over for an additional 3 turns.  Refer to the 
+target heat rules below.
+	9) The coolant cannon is "weapon" that does no damage and is 
+designed to cool down mech in one of two methods.  The first is to take any 
+flame/inferno heat that is sticking to the target and eliminate it.  Any 
+flame/inferno heat fired upon the target after it has been cooled will act 
+normally.  This first method of cooling will take precedence over the 
+second method.  (This first method of "attack" is similar to blowing out a 
+candle or using a fire extinguisher to put out a fire.)
+		The second method of "attack" for a coolant cannon is to 
+eliminate 10 points of heat generated that turn by the target.  This can be 
+done only if the target has no flame/inferno target heat generating at the 
+time.  If the target has less than 10 points of flame/inferno heat 
+generateing at the time, for example 6 points, the coolant cannon would 
+eliminate the 6 points of fame/inferno heat and reduce the heat generated 
+by the target by 4.  In general terms, the coolant cannon does -10 points 
+of target heat.  It will eliminate up to 10 points of flame/inferno heat.  
+Any remaining coolant cannon "damage" will reduce that turns heat output 
+for the target by the remaining amount.
+		Coolant cannons can only be mounted on ground vehicles 
+since the volume of the coolant is too large to mount on a battlemech.  If 
+rules are made such that a coolant cannon were to take up crits, the number 
+is listed in parentheses.
+	10) Bombardment Range Missiles (BRM)  BRM's are an extreme range 
+weapon designed to saturate an area with warheads.  It is a rather erratic 
+weapon in its performance, but this is compensated for by its long range.
+		A) BRM's do not roll on the missile hit chart to determine 
+	the number of missiles that hit.  Instead, a number of D6 are rolled to 
+	determine the number that hit.  When firing at Extreme Range a 
+	number of D6-1 are rolled and the number of D3 when firing at 
+	Maximum range.
+		B) The damage that a BRM does is distributed as an LRM would 
+	would.  Every 5 points of damage is rolled for.
+		C) If Artemis is tied in to a BRM, an extra D6 is rolled to 
+	determine the number of missiles that hit.  If the number of missiles 
+	that would hit is greater than the rating of the launcher, then simply
+	all of the missiles hit.     
+		D) BRM's may indirect fire just as LRM's can.
+	11) Tactical Support Missiles (TSM)  TSM's are an area effect, mech 
+mounted, reloadable weapon system based loosely on the LRM.  It utilizes an 
+airburst schrapnel charge to spread its damage over an area.
+		A) TSM's do 5 points of damage to any units in the target hex 
+	and 2 points of damage to any units one hex away from the target 
+	hex.  (The 6 surrounding hexes)
+		B) Like artillery, TSM's attack hexes rather than units.  
+	The to hit roll is modified only by intervening terrain and the 
+	attacking unit's movement and condition, never by the movement or 
+	condition of units in the hex.
+		C) To determine the number of missiles that hit, roll on 
+	the Missile Hit Chart under the appropriate number.  (Obviously the 
+	TSM/1 is a hit or miss deal.)
+		D) Roll for scatter for any TSM's that did not hit their 
+	intended target hex.  Use the Artillery scatter method.  Roll each 
+	missile seperately.
+		E) The firing of TSM's cannot be modified or helped by the 
+	following systems: Artemis, AAR, GAR, NARC, TAG, or anything 
+	else that would improve the accuracy or damage of the missile.  
+	(This restriction does not apply to 2x cockpit mechs, C^3, or 
+	pilot/gunners that have an improved gunnery skill.) This reflects the 
+	fact that the TSM is a ballistic missile that air bursts over the 
+	target and cannot really be guided to the explosion point.  Another 
+	reason is because these things are nasty enough as they are! 
+		F)  When TSM ammunition explodes due to heat or critical 
+	hit each missile explodes for 7 points of damage.
+	12) MRM's (Medium Range Missiles)  Medium Range Missiles were 
+developed as support weapons that would have a longer range than SRM's but 
+shorter range than LRM's.	
+		A) To resolve a missile hit from an MRM, conduct it in a 
+	manner similar to an LRM except that MRM hit in groups of 3 as 
+	opposed to in groups of 5 as with LRM.
+		B) MRM can not be fired in indirect fire mode.  They are, 
+	except as noted previouslly, functionally similar to LRM.
+	13) CRM (Close Range Missiles) are an functionally similar to SRM's 
+except that they do 3 points of damage per missile that hits.
+	14) Inferno weapons.  The only changes from the Inferno rules as 
+listed on p.60 of _The Battletech Compendium_ are listed below. 
+		A) The max target heat that Infernos (of any kind) can deliver 
+	is 10 instead of 6.
+		B) Inferno/1 is based upon the TSM/1.  Use notes 11B, 11D, and 
+	11E for additional information.  The Inferno/1 delivers 5 target 
+	heat to anything in the target hex and 2 target heat to anything in 
+	the 6 immediately surrounding hexes.
+		C) While the Geneva Conventions and the rules may prohibit 
+	the use of incindiery weapons against infantry, we warmongers will 
+	not.  The number of men killed by an inferno attack is equal to the 
+	target heat inflicted.  
+	15) TAG Laser.  The TAG laser appeared to be too limited in scope 
+for your average warmonger.  To make the TAG laser more useful for its 
+weight it was decided to make it helpful for normal missile attacks in 
+addition to your average Arrow IV attack.  In addition to its normal 
+functions, the TAG laser can be used by a mech about to make a missile 
+attack against a target.  Fire the TAG laser first.  If it hits then any 
