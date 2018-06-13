@@ -1,10 +1,10 @@
 # OMR: Out-of-Core MapReduce for Large Data Sets
-OMR is a single machine MapReduce system to efficiently processes very large datasets that do not fit in main memory. It actively minimizes the amount of data to be read/written to/from disk via type-aware meta-data optimizations and on-the-fly aggregation. With minimized random disk I/O, OMR provides linear scaling with growing datasets, and significantly outperforms state of the art MapReduce systems like Hadoop and Metis. System details and performance results can be found here: <TODO>
+OMR is a single machine MapReduce system to efficiently processes very large datasets that do not fit in main memory. It actively minimizes the amount of data to be read/written to/from disk via type-aware meta-data optimizations and on-the-fly aggregation. With minimized random disk I/O, OMR provides linear scaling with growing datasets, and significantly outperforms state of the art MapReduce systems like Hadoop and Metis. System details and performance results can be found in the [ISMM paper](https://doi.org/10.1145/3210563.3210568).
 
 ## Compiling Applications
 Following compilers/libraries are required: 
 * C++11 Compiler.
-* [Protocol Buffers] (https://developers.google.com/protocol-buffers/)
+* [Protocol Buffers](https://developers.google.com/protocol-buffers/)
 
 ```
 apt-get install libprotobuf-dev protobuf-compiler libgoogle-perftools-dev
@@ -64,5 +64,20 @@ Gurneet Kaur, Keval Vora, Sai Charan Koduru, and Rajiv Gupta. OMR: Out-of-Core M
 To cite OMR, you can use the following BibTeX entry:
 
 ```
-TODO
+@inproceedings{Kaur:2018:OOM:3210563.3210568,
+ author = {Kaur, Gurneet and Vora, Keval and Koduru, Sai Charan and Gupta, Rajiv},
+ title = {OMR: Out-of-core MapReduce for Large Data Sets},
+ booktitle = {Proceedings of the 2018 ACM SIGPLAN International Symposium on Memory Management},
+ series = {ISMM 2018},
+ year = {2018},
+ isbn = {978-1-4503-5801-9},
+ location = {Philadelphia, PA, USA},
+ pages = {71--83},
+ numpages = {13},
+ url = {http://doi.acm.org/10.1145/3210563.3210568},
+ doi = {10.1145/3210563.3210568},
+ acmid = {3210568},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+} 
 ```
