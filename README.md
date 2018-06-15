@@ -1,5 +1,5 @@
 # OMR: Out-of-Core MapReduce for Large Data Sets
-OMR is a single machine MapReduce system to efficiently processes very large datasets that do not fit in main memory. It actively minimizes the amount of data to be read/written to/from disk via type-aware meta-data optimizations and on-the-fly aggregation. With minimized random disk I/O, OMR provides linear scaling with growing datasets, and significantly outperforms state of the art MapReduce systems like Hadoop and Metis. System details and performance results can be found in the [ISMM paper](https://doi.org/10.1145/3210563.3210568).
+OMR is a single machine MapReduce system to efficiently processes very large datasets that do not fit in main memory. It actively minimizes the amount of data to be read/written to/from disk via type-aware meta-data optimizations and on-the-fly aggregation. With minimized random disk I/O, OMR provides linear scaling with growing datasets, and significantly outperforms state of the art MapReduce systems like Hadoop and Metis. System details and performance results can be found in the [ISMM'18 paper](http://www.cs.sfu.ca/~keval/contents/papers/omr-ismm18.pdf).
 
 ## Compiling Applications
 Following compilers/libraries are required: 
